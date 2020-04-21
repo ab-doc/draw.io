@@ -1,48 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T06:34:22.403Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="KCELmnFoZihJGlZyYL5k" version="13.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-21T06:38:54.752Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="61TSg_Y7JeCqNCkxwJ_K" version="13.0.0" type="github" pages="4">
   <diagram id="s2Hc1qfWq5hWeSCxf7I0" name="overview">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PHVLErjpg5LRv8TdgELE-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="890" height="310" as="geometry" />
+        <mxCell id="PHVLErjpg5LRv8TdgELE-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="890" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-1" value="商品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-1" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-2" value="促销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-2" value="促销" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-3" value="内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-3" value="内容" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-4" value="库存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-4" value="库存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-5" value="物流" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-5" value="物流" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-6" value="采购" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-6" value="采购" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-7" value="仓库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-7" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="790" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-8" value="订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-8" value="订单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-9" value="会员" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-9" value="会员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-10" value="调度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-10" value="调度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-11" value="支付" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-11" value="支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHVLErjpg5LRv8TdgELE-13" value="账单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
+        <mxCell id="PHVLErjpg5LRv8TdgELE-13" value="账单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="1">
           <mxGeometry x="790" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PHVLErjpg5LRv8TdgELE-14" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHVLErjpg5LRv8TdgELE-15" value="商家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHVLErjpg5LRv8TdgELE-16" value="运营" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="260" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PCsxraGhyfp8k-9L4FIL" name="user">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YMUG-spv-d9bKa87mdYN-0" />
+        <mxCell id="YMUG-spv-d9bKa87mdYN-1" parent="YMUG-spv-d9bKa87mdYN-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nUt5u_-Ke6tifIpquh2I" name="ent">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="mZQJXeFDCF8KMOR0Gr6Q-0" />
+        <mxCell id="mZQJXeFDCF8KMOR0Gr6Q-1" parent="mZQJXeFDCF8KMOR0Gr6Q-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rzbG9sscO4j2Kol-mN78" name="ops">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rbpjjev4ml-D9_nAXVma-0" />
+        <mxCell id="rbpjjev4ml-D9_nAXVma-1" parent="rbpjjev4ml-D9_nAXVma-0" />
       </root>
     </mxGraphModel>
   </diagram>
