@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T09:28:43.522Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="ulCjfQqBuFKVSxQkXl07" version="13.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-21T09:58:23.364Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="L5Mz34msO6C4FHuFSdHM" version="13.0.0" type="github" pages="8">
   <diagram id="s2Hc1qfWq5hWeSCxf7I0" name="overview">
     <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -298,6 +298,36 @@
       <root>
         <mxCell id="g88RtB2Hw1iGDV32Jr_O-0" />
         <mxCell id="g88RtB2Hw1iGDV32Jr_O-1" parent="g88RtB2Hw1iGDV32Jr_O-0" />
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-0" value="" style="group" vertex="1" connectable="0" parent="g88RtB2Hw1iGDV32Jr_O-1">
+          <mxGeometry x="40" y="40" width="890" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-1" value="促销系统视图" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;fillColor=#99CCFF;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry width="890" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry y="83" width="890" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-3" value="基础信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="20" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-4" value="成长体系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="170" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-5" value="积分体系" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="310" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-6" value="会员体系分层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="450" y="113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-7" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="20" y="193" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-8" value="商家" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="310" y="193" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h7AkwcZQSDxpOjVrkmAy-9" value="运营" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" vertex="1" parent="h7AkwcZQSDxpOjVrkmAy-0">
+          <mxGeometry x="600" y="193" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
