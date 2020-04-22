@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T03:19:28.007Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="d8xL3IRrxkxbumBZXCJL" compressed="false" version="13.0.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-22T03:22:24.276Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="o402upltof412OfcvY5Q" compressed="false" version="13.0.0" type="github" pages="8">
   <diagram id="s2Hc1qfWq5hWeSCxf7I0" name="overview">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1020" width="1040" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="eF_QrSrif9oosaIS1rhC-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="1040" height="500" as="geometry" />
         </mxCell>
@@ -130,17 +133,20 @@
         <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-4" value="搜索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="1207" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-5" value="推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-5" value="推荐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="210" y="1207" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-8" value="日志" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="1207" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-9" value="风控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-9" value="风控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="60" y="1207" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-10" value="消息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="1207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TKjI5MKXTHAJ7Ypq7UK6-11" value="事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1207" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
