@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T07:17:03.065Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="kQcHbf5xn9xEg1w7sqoJ" compressed="false" version="13.0.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-04-22T07:17:54.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="v7NgMW-IV44Y2_kDaK2R" compressed="false" version="13.0.1" type="github" pages="8">
   <diagram id="s2Hc1qfWq5hWeSCxf7I0" name="overview">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dv8kzK40Fbmz_vC2d1XB" name="商品">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="iEUo3t6WDb1YatkTb6O7-0" />
         <mxCell id="iEUo3t6WDb1YatkTb6O7-1" parent="iEUo3t6WDb1YatkTb6O7-0" />
