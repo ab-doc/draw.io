@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-29T02:03:15.858Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="8dpQLfOTP2GVv-Ot7DGF" compressed="false" version="13.0.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-04-29T05:17:29.974Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Safari/537.36" etag="5yLUldySjDEDofZ3of36" compressed="false" version="13.0.2" type="github" pages="12">
   <diagram id="GnY-sQZpjZbQGqyzHegG" name="代码组织结构">
     <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -73,6 +73,14 @@
         <mxCell id="g9eRT_-tBeaySLTl5YRZ-0" value="物流服务&lt;br&gt;(delivery)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oEtwXXiguGyfS3GrOpjU-1">
           <mxGeometry x="990" y="550" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fJTEIW4vNVo7fU4z2nXC" name="订单模块数据库设计">
+    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="-69nUH_dK5dmDrTVSiqt-0" />
+        <mxCell id="-69nUH_dK5dmDrTVSiqt-1" parent="-69nUH_dK5dmDrTVSiqt-0" />
       </root>
     </mxGraphModel>
   </diagram>
