@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T02:03:13.908Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="az0N71Z1yemnh_MBiVKE" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T02:06:19.978Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="k44-cRa5TLNrZIUpICju" version="13.1.14" type="github">
   <diagram id="0Uj0wvOZ_GoHjRGlzTIO" name="Page-1">
-    <mxGraphModel dx="1422" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,7 +63,7 @@
           <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-25" value="TLS数字证书生成过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="600" width="140" height="20" as="geometry" />
+          <mxGeometry x="440" y="620" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-34" value="2.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="450" width="30" height="20" as="geometry" />
@@ -82,6 +82,12 @@
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-39" value="1.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-41" value="hong：小红，证书持有者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-42" value="liang：小亮，德高望重的CA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
