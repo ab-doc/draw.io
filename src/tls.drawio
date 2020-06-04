@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T01:49:04.491Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="blzs_4tW4y1tSHFvYgZd" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T01:53:20.953Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="8SUUzoSbQ_NLuGpw_6uZ" version="13.1.14" type="github">
   <diagram id="0Uj0wvOZ_GoHjRGlzTIO" name="Page-1">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6666FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="170" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="NBl6JaTMYuG1Rr8iN5Nd-1" target="NBl6JaTMYuG1Rr8iN5Nd-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -43,6 +46,9 @@
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-16" value="hong.crt" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-25" value="TLS数字证书生成过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
