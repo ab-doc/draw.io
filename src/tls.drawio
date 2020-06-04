@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-04T02:29:09.282Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="llUhgrKUiMgD_ti4x40r" version="13.1.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-04T02:33:40.106Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/83.0.4103.61 Chrome/83.0.4103.61 Safari/537.36" etag="nxpS9kGg_qHqrFWe2lMO" version="13.1.14" type="github">
   <diagram id="0Uj0wvOZ_GoHjRGlzTIO" name="Page-1">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,8 +62,8 @@
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-16" value="&lt;b&gt;signature&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-25" value="TLS数字证书生成过程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="620" width="140" height="20" as="geometry" />
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-25" value="&lt;b&gt;TLS数字证书生成过程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="700" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-34" value="2.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="450" width="30" height="20" as="geometry" />
@@ -84,10 +84,10 @@
           <mxGeometry x="230" y="200" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-41" value="hong：小红，证书持有者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="160" width="150" height="20" as="geometry" />
+          <mxGeometry x="80" y="600" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-42" value="liang：小王，德高望重的CA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="200" width="170" height="20" as="geometry" />
+        <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-42" value="wang：小王，德高望重的CA，他的数字证书是自己签署的（self-signed certificate）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="640" width="460" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NBl6JaTMYuG1Rr8iN5Nd-45" value="CRT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="440" width="40" height="20" as="geometry" />
