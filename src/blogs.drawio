@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T05:54:19.562Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="6VR2qiJtBKc1TyQOinOv" version="13.5.8" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2020-08-03T06:27:26.430Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="O-7GVzwic_jXiy-obgkJ" version="13.5.8" type="github" pages="21">
   <diagram id="40D4RM83zULxuvOTv6Km" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1488,6 +1488,80 @@
         </mxCell>
         <mxCell id="TVlseQ_tvCrdr5mcACya-23" value="7、回查交易状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="TVlseQ_tvCrdr5mcACya-1">
           <mxGeometry x="590" y="280" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="X1YBOSZcnJoGYTp1R_Dq" name="Page-21">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-0" />
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-1" parent="WPPOIX6bTRqMuEIvjpbZ-0" />
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BDBDBD;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="200" y="110" width="440" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-2" value="Method Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-3" value="VM Stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-4" value="Native Method Stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-5" value="Heap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-6" value="Program Counter Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="360" y="270" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-7" value="执行引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-8" value="本地库接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="400" y="420" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="449.5" as="sourcePoint" />
+            <mxPoint x="395" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="449.5" as="sourcePoint" />
+            <mxPoint x="549" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-13" value="&lt;b&gt;本地方法库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="550" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-16" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419.5" y="351" as="sourcePoint" />
+            <mxPoint x="419.5" y="411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-17" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.5" y="411" as="sourcePoint" />
+            <mxPoint x="469.5" y="351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-19" value="&lt;b&gt;运行时数据区&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="375" y="130" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
