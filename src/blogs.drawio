@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T06:27:26.430Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="O-7GVzwic_jXiy-obgkJ" version="13.5.8" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-08-03T06:38:12.146Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="irk_Pp_3NNgHr30tKrkw" version="13.5.8" type="github" pages="21">
   <diagram id="40D4RM83zULxuvOTv6Km" name="Page-1">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -1503,22 +1503,22 @@
         <mxCell id="WPPOIX6bTRqMuEIvjpbZ-2" value="Method Area" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-3" value="VM Stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-3" value="VM Stack" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-4" value="Native Method Stack" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-4" value="Native Method Stack" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPPOIX6bTRqMuEIvjpbZ-5" value="Heap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-6" value="Program Counter Register" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-6" value="Program Counter Register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="360" y="270" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-7" value="执行引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-7" value="执行引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-8" value="本地库接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-8" value="本地库接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="400" y="420" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPPOIX6bTRqMuEIvjpbZ-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
@@ -1562,6 +1562,18 @@
         </mxCell>
         <mxCell id="WPPOIX6bTRqMuEIvjpbZ-19" value="&lt;b&gt;运行时数据区&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
           <mxGeometry x="375" y="130" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="680" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B9E0A5;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="680" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-22" value="所有线程共享的数据区" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="790" y="125" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WPPOIX6bTRqMuEIvjpbZ-23" value="线程隔离的数据区" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WPPOIX6bTRqMuEIvjpbZ-1">
+          <mxGeometry x="790" y="175" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
