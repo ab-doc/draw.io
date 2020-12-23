@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:54:36.919Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ff9FEKAE3FnStqFepz6g" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:05:52.813Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="hoIAt4qdOiuW8bon9tjz" version="14.1.1" type="github" pages="2">
   <diagram id="LsY3n9CnqGCvU9-dlRnW" name="001">
     <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="000" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1108" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,13 +32,13 @@
         <mxCell id="iFogylqvE2eTUU4uMYc8-112" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iFogylqvE2eTUU4uMYc8-43" vertex="1">
           <mxGeometry x="60" y="222" width="10" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="iFogylqvE2eTUU4uMYc8-44" value=":聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="iFogylqvE2eTUU4uMYc8-44" value=":微应用代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="90" width="130" height="630" as="geometry" />
         </mxCell>
         <mxCell id="iFogylqvE2eTUU4uMYc8-109" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iFogylqvE2eTUU4uMYc8-44" vertex="1">
           <mxGeometry x="60" y="222" width="10" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="iFogylqvE2eTUU4uMYc8-45" value=":飞巴H5" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="iFogylqvE2eTUU4uMYc8-45" value=":微应用H5端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="90" width="130" height="630" as="geometry" />
         </mxCell>
         <mxCell id="iFogylqvE2eTUU4uMYc8-77" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iFogylqvE2eTUU4uMYc8-45" vertex="1">
@@ -47,7 +47,7 @@
         <mxCell id="iFogylqvE2eTUU4uMYc8-143" value="获取用户信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="iFogylqvE2eTUU4uMYc8-45" vertex="1">
           <mxGeometry x="15" y="439" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="iFogylqvE2eTUU4uMYc8-46" value=":飞巴系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="iFogylqvE2eTUU4uMYc8-46" value=":微应用服务端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="680" y="90" width="130" height="630" as="geometry" />
         </mxCell>
         <mxCell id="iFogylqvE2eTUU4uMYc8-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" parent="iFogylqvE2eTUU4uMYc8-46" edge="1">
@@ -63,8 +63,8 @@
         <mxCell id="iFogylqvE2eTUU4uMYc8-97" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="iFogylqvE2eTUU4uMYc8-46" vertex="1">
           <mxGeometry x="60" y="102" width="10" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="iFogylqvE2eTUU4uMYc8-79" value="进入飞巴差旅微应用（corpId）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="162" width="180" height="20" as="geometry" />
+        <mxCell id="iFogylqvE2eTUU4uMYc8-79" value="进入钉钉微应用（corpId）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="162" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iFogylqvE2eTUU4uMYc8-88" value="获取微应用免登授权码：JSAPI（corpId）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="212" width="240" height="20" as="geometry" />
@@ -243,8 +243,8 @@
         <mxCell id="iFogylqvE2eTUU4uMYc8-153" value="登录成功，重定向页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="575" y="652" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ozE3ekxXH5V31ykZUYcG-1" value="&lt;b&gt;钉钉微应用企业员工免登录业务流程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="68" y="40" width="210" height="20" as="geometry" />
+        <mxCell id="ozE3ekxXH5V31ykZUYcG-1" value="&lt;b&gt;钉钉开放平台第三方企业微应用之企业员工免登录业务流程&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QotLAJqEf01hJXJy_Xmf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iFogylqvE2eTUU4uMYc8-67">
           <mxGeometry relative="1" as="geometry">
@@ -254,6 +254,9 @@
               <mxPoint x="480" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QotLAJqEf01hJXJy_Xmf-3" value="微应用代理：根据钉钉第三方企业微应用接入规范要求，钉钉微应用服务端与钉钉系统之间需要有一个部署在聚石塔上的代理程序来做数据中转。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="780" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
