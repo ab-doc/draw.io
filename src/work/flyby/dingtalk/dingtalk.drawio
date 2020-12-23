@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T14:05:52.813Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="hoIAt4qdOiuW8bon9tjz" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T14:08:22.965Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="429Ludy-gwJH7Rb303nn" version="14.1.1" type="github" pages="2">
   <diagram id="LsY3n9CnqGCvU9-dlRnW" name="001">
     <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="000" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1138" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,8 +255,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QotLAJqEf01hJXJy_Xmf-3" value="微应用代理：根据钉钉第三方企业微应用接入规范要求，钉钉微应用服务端与钉钉系统之间需要有一个部署在聚石塔上的代理程序来做数据中转。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="770" width="780" height="20" as="geometry" />
+        <mxCell id="QotLAJqEf01hJXJy_Xmf-3" value="微应用代理：根据钉钉开放平台第三方企业微应用接入规范，钉钉微应用服务端与钉钉系统之间需要有一个部署在聚石塔上的代理程序来做数据中转。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="770" width="810" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
