@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:33:53.582Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="KbaKFdEdSr6cDgIqreZI" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:34:55.596Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kZRgWmdUDhx7wOAYnYRW" version="14.1.1" type="github" pages="2">
   <diagram id="LsY3n9CnqGCvU9-dlRnW" name="001">
     <mxGraphModel dx="1423" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -312,7 +312,7 @@
           <mxGeometry x="975" y="720" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ozE3ekxXH5V31ykZUYcG-1" value="&lt;b&gt;钉钉微应用企业员工免登录业务流程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="210" height="20" as="geometry" />
+          <mxGeometry x="80" y="40" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
