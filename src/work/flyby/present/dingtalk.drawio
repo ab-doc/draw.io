@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T10:36:26.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="WGklU6d6aO3a3d6i3LkG" version="14.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-05T11:06:57.926Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="LS4kEsYnc5RK1avVuCWZ" version="14.1.8" type="github" pages="5">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -487,47 +487,144 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="dingtalk_openapi_trip_001" id="14RZgLXPa-QoQ2PsmRYq">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+  <diagram name="dingtalk_openapi_trip_001" id="c7aU_QdEyIBz6LwK8YNM">
+    <mxGraphModel dx="1138" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-0" />
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-1" parent="8ccLPGtg2tWihtU1OOjI-0" />
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-2" value="&lt;b&gt;出差申请单流程（2）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-0" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-1" parent="uwj_sU0_lkn4Eh4Ci_SE-0" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-2" value="&lt;b&gt;出差申请单流程（2）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
           <mxGeometry x="40" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-3" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-3" value="企业员工A" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="360" y="80" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-6" value="钉钉开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="280" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-3">
+          <mxGeometry x="45" y="140" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-9" value="聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="520" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-46" value="审批出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-3">
+          <mxGeometry x="-15" y="260" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2l5tNnpgRkctrJ4YJYrq-0" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-9">
-          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-5" value="钉钉系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="540" y="80" width="100" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-14" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="760" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-5">
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-14">
-          <mxGeometry x="45" y="60" width="10" height="80" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-5">
+          <mxGeometry x="45" y="210" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-19" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="40" y="920" width="590" height="20" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-5">
+          <mxGeometry x="45" y="280" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-20" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="40" y="970" width="880" height="20" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-8" value="聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="720" y="80" width="100" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="8ccLPGtg2tWihtU1OOjI-21" value="RDS：钉钉以推送关系型数据库（Relational Database System，RDS）表的形式同步数据到服务开发商部署在聚石塔的代理端，目前仅支持MySQL数据库。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="8ccLPGtg2tWihtU1OOjI-1">
-          <mxGeometry x="40" y="1020" width="850" height="20" as="geometry" />
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-8">
+          <mxGeometry x="45" y="210" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2l5tNnpgRkctrJ4YJYrq-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8ccLPGtg2tWihtU1OOjI-1" source="8ccLPGtg2tWihtU1OOjI-15" target="2l5tNnpgRkctrJ4YJYrq-0">
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-8">
+          <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-11" value="在钉钉企业管理后台设计出差申请单模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="220" y="140" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-13" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="880" y="80" width="100" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-13" source="uwj_sU0_lkn4Eh4Ci_SE-7" target="uwj_sU0_lkn4Eh4Ci_SE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-13">
+          <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-13">
+          <mxGeometry x="45" y="330" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-13" source="uwj_sU0_lkn4Eh4Ci_SE-50" target="uwj_sU0_lkn4Eh4Ci_SE-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-18" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="40" y="1000" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-19" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="40" y="1050" width="880" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-20" value="RDS：钉钉以推送关系型数据库（Relational Database System，RDS）表的形式同步数据到服务开发商部署在聚石塔的代理端，目前仅支持MySQL数据库。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="40" y="1100" width="850" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-21" value="提交出差申请单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="650" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-4" target="uwj_sU0_lkn4Eh4Ci_SE-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="160" />
+              <mxPoint x="650" y="240" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-25" value="企业管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-26" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-25">
+          <mxGeometry x="45" y="70" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-28" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-26" target="uwj_sU0_lkn4Eh4Ci_SE-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-7" target="uwj_sU0_lkn4Eh4Ci_SE-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-31" target="uwj_sU0_lkn4Eh4Ci_SE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-35" value="创建&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="950" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-36" value="同步&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="810" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-37" value="异步同步&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="640" y="275" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-38" value="企业员工B" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="200" y="80" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-38">
+          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-42" target="uwj_sU0_lkn4Eh4Ci_SE-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-44" target="uwj_sU0_lkn4Eh4Ci_SE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-49" value="同步&lt;br&gt;出差申请单001状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="620" y="365" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-51" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1" source="uwj_sU0_lkn4Eh4Ci_SE-47" target="uwj_sU0_lkn4Eh4Ci_SE-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-52" value="同步&lt;br&gt;出差申请单001状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="790" y="395" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwj_sU0_lkn4Eh4Ci_SE-55" value="更新&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="uwj_sU0_lkn4Eh4Ci_SE-1">
+          <mxGeometry x="960" y="440" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
