@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T09:09:46.920Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="AxfDP737z3JqsCIVQVXf" version="14.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-05T10:11:15.873Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="dAs_wuun03iiYjZ5z0r0" version="14.1.8" type="github" pages="5">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -296,26 +296,23 @@
       <root>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-0" />
         <mxCell id="nv8J5an0vgNy-mCbpt1U-1" parent="nv8J5an0vgNy-mCbpt1U-0" />
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-3" value="钉钉开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="280" y="80" width="130" height="350" as="geometry" />
+        <mxCell id="nv8J5an0vgNy-mCbpt1U-3" value="钉钉客户端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="240" y="80" width="130" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-3">
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-3">
           <mxGeometry x="60" y="70" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-3">
-          <mxGeometry x="60" y="132" width="10" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-7" value="聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="480" y="80" width="130" height="350" as="geometry" />
+          <mxGeometry x="860" y="80" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-9" value="钉钉飞巴H5端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="680" y="80" width="130" height="350" as="geometry" />
+          <mxGeometry x="1060" y="80" width="130" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-9">
-          <mxGeometry x="60" y="82" width="10" height="228" as="geometry" />
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-9">
+          <mxGeometry x="60" y="154" width="10" height="48" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-12" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="880" y="80" width="130" height="350" as="geometry" />
+          <mxGeometry x="1260" y="80" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="RgnrQdZPLRiu-N7KHPN5-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-12" source="nv8J5an0vgNy-mCbpt1U-14" target="nv8J5an0vgNy-mCbpt1U-14">
           <mxGeometry relative="1" as="geometry">
@@ -326,65 +323,19 @@
           <mxGeometry x="60" y="190" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-15" value="进入钉钉微应用（corpId）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="470" y="152" width="160" height="20" as="geometry" />
+          <mxGeometry x="915" y="680" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-16" value="获取微应用免登授权码：JSAPI（corpId）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="425" y="202" width="240" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=1.4;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="nv8J5an0vgNy-mCbpt1U-10" target="nv8J5an0vgNy-mCbpt1U-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="247" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="650" y="225" />
-              <mxPoint x="650" y="225" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;dashed=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="nv8J5an0vgNy-mCbpt1U-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="262" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="450" y="262" />
-              <mxPoint x="450" y="262" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="675" y="720" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-19" value="返回微应用免登授权码（auth_code）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="430" y="242" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="nv8J5an0vgNy-mCbpt1U-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="281" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="940" y="281" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-21" value="登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="825" y="262" width="40" height="20" as="geometry" />
+          <mxGeometry x="460" y="680" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-37" value="验签用户身份" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="970" y="320" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-46" value="登录成功，重定向页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="775" y="350" width="140" height="20" as="geometry" />
+          <mxGeometry x="1350" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nv8J5an0vgNy-mCbpt1U-47" value="&lt;b&gt;钉钉开放平台第三方企业微应用之企业员工免登录业务流程&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
           <mxGeometry x="40" y="40" width="330" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nv8J5an0vgNy-mCbpt1U-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="nv8J5an0vgNy-mCbpt1U-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="170" />
-              <mxPoint x="680" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RgnrQdZPLRiu-N7KHPN5-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.2;entryY=0.93;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="nv8J5an0vgNy-mCbpt1U-14" target="nv8J5an0vgNy-mCbpt1U-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="432" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LW7vQn6ogQ_I4sKc4AmB-0" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
           <mxGeometry x="40" y="760" width="590" height="20" as="geometry" />
@@ -396,10 +347,46 @@
           <mxGeometry x="40" y="80" width="130" height="350" as="geometry" />
         </mxCell>
         <mxCell id="RS4mXR8wTbXuYlRqKcMj-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RS4mXR8wTbXuYlRqKcMj-0">
-          <mxGeometry x="60" y="70" width="10" height="40" as="geometry" />
+          <mxGeometry x="60" y="60" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RS4mXR8wTbXuYlRqKcMj-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="RS4mXR8wTbXuYlRqKcMj-0">
-          <mxGeometry x="60" y="132" width="10" height="60" as="geometry" />
+          <mxGeometry x="60" y="132" width="10" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-0" value="钉钉开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="660" y="80" width="130" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="q7TvLnnVoWYgtDqp9FGh-0">
+          <mxGeometry x="60" y="190" width="10" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-3" value="钉钉服务后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="440" y="80" width="130" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="q7TvLnnVoWYgtDqp9FGh-3">
+          <mxGeometry x="60" y="70" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="RS4mXR8wTbXuYlRqKcMj-1" target="q7TvLnnVoWYgtDqp9FGh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="q7TvLnnVoWYgtDqp9FGh-6" target="q7TvLnnVoWYgtDqp9FGh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-10" value="登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="180" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-11" value="登录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="380" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-13" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="RS4mXR8wTbXuYlRqKcMj-2" target="q7TvLnnVoWYgtDqp9FGh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-14" value="进入钉钉上的飞巴应用H5端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="500" y="210" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nv8J5an0vgNy-mCbpt1U-1" source="q7TvLnnVoWYgtDqp9FGh-12" target="q7TvLnnVoWYgtDqp9FGh-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7TvLnnVoWYgtDqp9FGh-17" value="获取免登授权码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
+          <mxGeometry x="875" y="245" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
