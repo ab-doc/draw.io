@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T10:31:10.714Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="_YKDzraTJ6NVVjtFtjF1" version="14.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-05T10:31:36.874Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kzCJxGAJyxzv0o-_fu4g" version="14.1.8" type="github" pages="5">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -395,9 +395,6 @@
         </mxCell>
         <mxCell id="JGWIEfz680Y_tesZq3BN-1" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
           <mxGeometry x="40" y="570" width="880" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="JGWIEfz680Y_tesZq3BN-3" value="钉钉客户端、钉钉服务后端、钉钉开放平台统称钉钉系统。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="nv8J5an0vgNy-mCbpt1U-1">
-          <mxGeometry x="40" y="620" width="330" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
