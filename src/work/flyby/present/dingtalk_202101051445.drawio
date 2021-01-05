@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T07:36:42.711Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="cz8Y3yEOsLZY2VeZCWod" version="14.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-05T07:43:01.205Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ymME3BtMhSuDxZt3NaD_" version="14.1.8" type="github" pages="6">
   <diagram name="dingtalk_openapi_ent_001" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#ffffff" math="0" shadow="0">
       <root>
@@ -287,8 +287,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-11" value="管理员授权开通第三方应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
-          <mxGeometry x="130" y="140" width="160" height="20" as="geometry" />
+        <mxCell id="ROyWMD74HyqL_B-godrN-11" value="企业管理员在钉钉企业后台&lt;br&gt;授权开通第三方应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
+          <mxGeometry x="130" y="135" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ROyWMD74HyqL_B-godrN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-9" target="ROyWMD74HyqL_B-godrN-12">
           <mxGeometry relative="1" as="geometry">
@@ -298,8 +298,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-14" value="RDS推送企业授权信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
-          <mxGeometry x="380" y="170" width="140" height="20" as="geometry" />
+        <mxCell id="ROyWMD74HyqL_B-godrN-14" value="以RDS推送企业授权信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
+          <mxGeometry x="375" y="170" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROyWMD74HyqL_B-godrN-19" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
           <mxGeometry x="760" y="80" width="100" height="530" as="geometry" />
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="XfqAjCLGHTh9f_zEp6VF-0" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
           <mxGeometry x="40" y="710" width="880" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CAdSRAxTMOZP6rrSwl_J-0" value="RDS：钉钉以推送关系型数据库（Relational Database System，RDS）表的形式同步数据到服务开发商部署在聚石塔的代理端，目前仅支持MySQL数据库。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="lzIYmvuplW2zlDW2XlVa-1">
+          <mxGeometry x="40" y="760" width="850" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -488,8 +491,8 @@
         <mxCell id="b8aBz9sjtjlgImkw413s-23" value="同步企业信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
           <mxGeometry x="630" y="200" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b8aBz9sjtjlgImkw413s-24" value="注册/更新&lt;br&gt;企业信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
-          <mxGeometry x="840" y="230" width="70" height="30" as="geometry" />
+        <mxCell id="b8aBz9sjtjlgImkw413s-24" value="更新&lt;br&gt;企业信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
+          <mxGeometry x="845" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b8aBz9sjtjlgImkw413s-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="b8aBz9sjtjlgImkw413s-1" source="b8aBz9sjtjlgImkw413s-8" target="b8aBz9sjtjlgImkw413s-17">
           <mxGeometry relative="1" as="geometry">
@@ -530,11 +533,14 @@
         <mxCell id="b8aBz9sjtjlgImkw413s-33" value="更新&lt;br&gt;企业角色信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
           <mxGeometry x="840" y="550" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b8aBz9sjtjlgImkw413s-34" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
-          <mxGeometry x="40" y="660" width="590" height="20" as="geometry" />
+        <mxCell id="O9zTCRz-oTdFRSKnxAt3-3" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
+          <mxGeometry x="50" y="670" width="590" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="b8aBz9sjtjlgImkw413s-35" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
-          <mxGeometry x="40" y="710" width="880" height="20" as="geometry" />
+        <mxCell id="O9zTCRz-oTdFRSKnxAt3-4" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
+          <mxGeometry x="50" y="720" width="880" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O9zTCRz-oTdFRSKnxAt3-5" value="RDS：钉钉以推送关系型数据库（Relational Database System，RDS）表的形式同步数据到服务开发商部署在聚石塔的代理端，目前仅支持MySQL数据库。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="b8aBz9sjtjlgImkw413s-1">
+          <mxGeometry x="50" y="770" width="850" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
