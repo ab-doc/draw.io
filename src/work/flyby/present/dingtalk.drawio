@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T13:30:58.944Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="3LkGXlwM1rqmrFadzDqm" version="14.1.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-05T13:36:15.378Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="RjMJ128uTHQ_HNrl-m3V" version="14.1.8" type="github" pages="6">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -822,6 +822,9 @@
         </mxCell>
         <mxCell id="1y4vjJ8w8GmTw1-7sExy-113" value="小程序端" style="whiteSpace=wrap;html=1;sketch=1;rounded=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1y4vjJ8w8GmTw1-7sExy-1">
           <mxGeometry x="760" y="890" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1y4vjJ8w8GmTw1-7sExy-134" value="&lt;b&gt;钉钉第三方企业应用接入及飞巴开放网关架构概念设计&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FEFAE0;" vertex="1" parent="1y4vjJ8w8GmTw1-7sExy-1">
+          <mxGeometry x="40" y="40" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
