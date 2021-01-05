@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T10:31:36.874Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kzCJxGAJyxzv0o-_fu4g" version="14.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-05T10:36:26.789Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="WGklU6d6aO3a3d6i3LkG" version="14.1.8" type="github" pages="5">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -407,17 +407,14 @@
         <mxCell id="rUmZnQg3aihx_nzFNHEp-2" value="&lt;b&gt;出差申请单流程（1）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rUmZnQg3aihx_nzFNHEp-3" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="rUmZnQg3aihx_nzFNHEp-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rUmZnQg3aihx_nzFNHEp-3" vertex="1">
-          <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
+        <mxCell id="rUmZnQg3aihx_nzFNHEp-3" value="企业员工" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
+          <mxGeometry x="240" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rUmZnQg3aihx_nzFNHEp-3" vertex="1">
           <mxGeometry x="45" y="200" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rUmZnQg3aihx_nzFNHEp-5" value="钉钉开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="280" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="rUmZnQg3aihx_nzFNHEp-5" value="钉钉系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
+          <mxGeometry x="480" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rUmZnQg3aihx_nzFNHEp-5" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="80" as="geometry" />
@@ -426,7 +423,7 @@
           <mxGeometry x="45" y="230" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-7" value="聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="520" y="80" width="100" height="400" as="geometry" />
+          <mxGeometry x="720" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rUmZnQg3aihx_nzFNHEp-7" vertex="1">
           <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
@@ -434,19 +431,19 @@
         <mxCell id="rUmZnQg3aihx_nzFNHEp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rUmZnQg3aihx_nzFNHEp-1" source="rUmZnQg3aihx_nzFNHEp-4" target="rUmZnQg3aihx_nzFNHEp-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="170" />
-              <mxPoint x="220" y="170" />
+              <mxPoint x="420" y="170" />
+              <mxPoint x="420" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUmZnQg3aihx_nzFNHEp-10" value="企业管理员在钉钉企业管理后台&lt;br&gt;设计出差申请单模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="120" y="135" width="180" height="30" as="geometry" />
+        <mxCell id="rUmZnQg3aihx_nzFNHEp-10" value="在钉钉企业管理后台设计出差申请单模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
+          <mxGeometry x="190" y="140" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-12" value="以RDS方式推送企业审批信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="370" y="326" width="170" height="20" as="geometry" />
+          <mxGeometry x="570" y="326" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-13" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="760" y="80" width="100" height="400" as="geometry" />
+          <mxGeometry x="960" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="rUmZnQg3aihx_nzFNHEp-13" vertex="1">
           <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
@@ -455,10 +452,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-23" value="同步审批通过的出差申请单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="600" y="353" width="160" height="20" as="geometry" />
+          <mxGeometry x="800" y="353" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-24" value="更新企业&lt;br&gt;出差申请单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="840" y="390" width="100" height="30" as="geometry" />
+          <mxGeometry x="1040" y="390" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-34" value="企业开通：企业开通指的是企业管理员在钉钉后台入驻到飞巴应用上来，并为飞巴应用授权相应的企业信息。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
           <mxGeometry x="40" y="1000" width="590" height="20" as="geometry" />
@@ -470,7 +467,7 @@
           <mxGeometry x="40" y="1100" width="850" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-42" value="企业员工在钉钉上提交&lt;br&gt;出差申请单并走相关流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="rUmZnQg3aihx_nzFNHEp-1" vertex="1">
-          <mxGeometry x="120" y="280" width="150" height="30" as="geometry" />
+          <mxGeometry x="320" y="280" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rUmZnQg3aihx_nzFNHEp-1" source="rUmZnQg3aihx_nzFNHEp-43" target="rUmZnQg3aihx_nzFNHEp-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -480,6 +477,12 @@
         </mxCell>
         <mxCell id="rUmZnQg3aihx_nzFNHEp-49" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="rUmZnQg3aihx_nzFNHEp-1" source="rUmZnQg3aihx_nzFNHEp-46" target="rUmZnQg3aihx_nzFNHEp-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0UXRzjBFY4u7Ddw7iprP-0" value="企业管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="rUmZnQg3aihx_nzFNHEp-1">
+          <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="rUmZnQg3aihx_nzFNHEp-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="0UXRzjBFY4u7Ddw7iprP-0" vertex="1">
+          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
