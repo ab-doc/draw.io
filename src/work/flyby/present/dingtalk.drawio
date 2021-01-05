@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-05T08:53:24.073Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="BemHMO_I9aic0Bn646fC" version="14.1.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-05T08:54:51.754Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="5US3zrmEE2nmWpQjv1Rx" version="14.1.8" type="github" pages="5">
   <diagram id="vPzD-Wpo7etqd_KNEoi4" name="dingtalk_openapi_ent_000">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="lzIYmvuplW2zlDW2XlVa-0" />
         <mxCell id="lzIYmvuplW2zlDW2XlVa-1" parent="lzIYmvuplW2zlDW2XlVa-0" />
-        <mxCell id="ROyWMD74HyqL_B-godrN-1" value="&lt;b&gt;企业开通流程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-1" value="&lt;b&gt;企业开通流程&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
           <mxGeometry x="40" y="40" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROyWMD74HyqL_B-godrN-3" value="企业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ROyWMD74HyqL_B-godrN-5" vertex="1">
           <mxGeometry x="45" y="110" width="10" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-8" target="ROyWMD74HyqL_B-godrN-9" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-10" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-8" target="ROyWMD74HyqL_B-godrN-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="170" />
@@ -36,7 +36,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-11" value="企业管理员在钉钉企业后台&lt;br&gt;授权开通第三方应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
           <mxGeometry x="130" y="135" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-9" target="ROyWMD74HyqL_B-godrN-12" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-13" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-9" target="ROyWMD74HyqL_B-godrN-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="200" />
@@ -53,10 +53,10 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ROyWMD74HyqL_B-godrN-19" vertex="1">
           <mxGeometry x="45" y="140" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-17" target="ROyWMD74HyqL_B-godrN-17" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-17" target="ROyWMD74HyqL_B-godrN-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-29" target="ROyWMD74HyqL_B-godrN-29" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-33" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-29" target="ROyWMD74HyqL_B-godrN-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="275" as="targetPoint" />
           </mxGeometry>
@@ -64,7 +64,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ROyWMD74HyqL_B-godrN-19" vertex="1">
           <mxGeometry x="45" y="240" width="10" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-36" target="ROyWMD74HyqL_B-godrN-36" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-39" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-36" target="ROyWMD74HyqL_B-godrN-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="380" as="targetPoint" />
           </mxGeometry>
@@ -72,7 +72,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ROyWMD74HyqL_B-godrN-19" vertex="1">
           <mxGeometry x="45" y="340" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-41" target="ROyWMD74HyqL_B-godrN-41" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-44" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="ROyWMD74HyqL_B-godrN-19" source="ROyWMD74HyqL_B-godrN-41" target="ROyWMD74HyqL_B-godrN-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="480" as="targetPoint" />
           </mxGeometry>
@@ -80,7 +80,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="ROyWMD74HyqL_B-godrN-19" vertex="1">
           <mxGeometry x="45" y="440" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-17" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-18" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="750" y="230" />
@@ -94,7 +94,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-27" value="注册/更新&lt;br&gt;企业信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
           <mxGeometry x="840" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-29" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-30" value="" style="orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="340" />
@@ -107,7 +107,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-34" value="更新&lt;br&gt;企业部门信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
           <mxGeometry x="830" y="340" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-36" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-37" style="orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="440" />
@@ -117,7 +117,7 @@
         <mxCell id="ROyWMD74HyqL_B-godrN-40" value="同步企业员工信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="lzIYmvuplW2zlDW2XlVa-1" vertex="1">
           <mxGeometry x="630" y="410" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ROyWMD74HyqL_B-godrN-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-41" edge="1">
+        <mxCell id="ROyWMD74HyqL_B-godrN-42" style="orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="lzIYmvuplW2zlDW2XlVa-1" source="ROyWMD74HyqL_B-godrN-12" target="ROyWMD74HyqL_B-godrN-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="540" />
