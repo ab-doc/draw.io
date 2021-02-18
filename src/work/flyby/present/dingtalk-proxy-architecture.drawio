@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-18T06:31:13.090Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KeBVylj7aYk_Gj2Ie0q1" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-18T06:35:42.515Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="hX4m7Ke2r6Eu35UcpZjY" version="14.2.9" type="github" pages="3">
   <diagram name="architecture_first" id="cFMQS1bncqsufCwkgkjp">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="architecture_second" id="LgBKMPx0ZVMOSe4jXBVE">
-    <mxGraphModel dx="1422" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="Yxok16bI59C-U_OX65T--0" />
         <mxCell id="Yxok16bI59C-U_OX65T--1" parent="Yxok16bI59C-U_OX65T--0" />
@@ -148,7 +148,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="architecture_3rd" id="vJrH_ZbE5-9qhnQLdg-9">
-    <mxGraphModel dx="1422" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="qrvZA6om9SuFlZTzOPHU-0" />
         <mxCell id="qrvZA6om9SuFlZTzOPHU-1" parent="qrvZA6om9SuFlZTzOPHU-0" />
@@ -236,10 +236,10 @@
         <mxCell id="AP36gb4BfxRFVef4e0nT-0" value="飞巴SDK" style="whiteSpace=wrap;html=1;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
           <mxGeometry x="520" y="630" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AP36gb4BfxRFVef4e0nT-1" value="服务注册" style="whiteSpace=wrap;html=1;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
+        <mxCell id="AP36gb4BfxRFVef4e0nT-1" value="服务注册&lt;br&gt;(Nacos)" style="whiteSpace=wrap;html=1;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
           <mxGeometry x="660" y="630" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AP36gb4BfxRFVef4e0nT-2" value="服务配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
+        <mxCell id="AP36gb4BfxRFVef4e0nT-2" value="服务配置&lt;br&gt;(Nacos)" style="whiteSpace=wrap;html=1;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
           <mxGeometry x="800" y="630" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rmq8ZKzfEDblqUjvpW3g-0" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;MQ Cluster&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="qrvZA6om9SuFlZTzOPHU-1">
