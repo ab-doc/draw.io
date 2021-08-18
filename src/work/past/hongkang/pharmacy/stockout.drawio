@@ -1,139 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T02:19:06.467Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="dN2qT2ONQS-Mivsm9qrW" version="14.8.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-18T02:32:16.309Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="d3Ol8331pmYLgPB9f3_F" version="14.8.6" type="github" pages="2">
   <diagram id="7ADZEoCv_N2pfUkhOmF2" name="药房发药">
-    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-2" value="&lt;b&gt;出差申请单流程（2）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="H3Da2AQrA6T10nojDcQ5-2" value="&lt;b&gt;药房发药&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-3" value="企业员工A" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="100" height="400" as="geometry" />
+        <mxCell id="H3Da2AQrA6T10nojDcQ5-3" value="发药员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="100" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-3">
-          <mxGeometry x="45" y="140" width="10" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-5" value="审批出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-3">
-          <mxGeometry x="-15" y="260" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-6" value="钉钉系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="80" width="100" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-6">
-          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-6">
-          <mxGeometry x="45" y="210" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-6">
-          <mxGeometry x="45" y="280" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-10" value="聚石塔代理" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="100" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-10">
-          <mxGeometry x="45" y="210" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-10">
-          <mxGeometry x="45" y="290" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-13" value="在钉钉企业管理后台设计出差申请单模板" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="140" width="230" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-14" value="飞巴开放平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="80" width="100" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="H3Da2AQrA6T10nojDcQ5-14" source="H3Da2AQrA6T10nojDcQ5-16" target="H3Da2AQrA6T10nojDcQ5-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-14">
-          <mxGeometry x="45" y="150" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-14">
-          <mxGeometry x="45" y="330" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-18" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="H3Da2AQrA6T10nojDcQ5-14" source="H3Da2AQrA6T10nojDcQ5-17" target="H3Da2AQrA6T10nojDcQ5-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="135" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H3Da2AQrA6T10nojDcQ5-6" value="主治医生" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="H3Da2AQrA6T10nojDcQ5-19" value="提交出差申请单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="100" height="20" as="geometry" />
+          <mxGeometry x="880" y="830" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-4" target="H3Da2AQrA6T10nojDcQ5-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-21" value="企业管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="H3Da2AQrA6T10nojDcQ5-21" value="患者" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="H3Da2AQrA6T10nojDcQ5-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-21">
           <mxGeometry x="45" y="70" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-23" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-22" target="H3Da2AQrA6T10nojDcQ5-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="310" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-24" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-16" target="H3Da2AQrA6T10nojDcQ5-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-11" target="H3Da2AQrA6T10nojDcQ5-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="H3Da2AQrA6T10nojDcQ5-26" value="创建&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="260" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-27" value="同步&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="260" width="100" height="30" as="geometry" />
+          <mxGeometry x="1010" y="800" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3Da2AQrA6T10nojDcQ5-28" value="异步同步&lt;br&gt;出差申请单001" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="275" width="100" height="30" as="geometry" />
+          <mxGeometry x="1000" y="630" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-29" value="企业员工B" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="100" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-30" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="H3Da2AQrA6T10nojDcQ5-29">
-          <mxGeometry x="45" y="260" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-30" target="H3Da2AQrA6T10nojDcQ5-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-32" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-9" target="H3Da2AQrA6T10nojDcQ5-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-33" value="以RDS方式推送&lt;br&gt;出差申请单001状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="365" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-34" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="H3Da2AQrA6T10nojDcQ5-12" target="H3Da2AQrA6T10nojDcQ5-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="860" y="430" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-35" value="同步&lt;br&gt;出差申请单001状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="395" width="120" height="30" as="geometry" />
+        <mxCell id="H3Da2AQrA6T10nojDcQ5-29" value="收费员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="H3Da2AQrA6T10nojDcQ5-36" value="更新&lt;br&gt;出差申请单001状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="440" width="120" height="30" as="geometry" />
+          <mxGeometry x="1010" y="690" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-37" value="聚石塔代理：根据钉钉第三方应用开发者规范要求，需要在聚石塔云平台上部署一个代理用于实现第三方服务与钉钉之间的服务交互，我们称为部署在聚石塔代理。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="600" width="880" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="H3Da2AQrA6T10nojDcQ5-38" value="RDS：钉钉以推送关系型数据库（Relational Database System，RDS）表的形式同步数据到服务开发商部署在聚石塔的代理端，目前仅支持MySQL数据库。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="650" width="850" height="20" as="geometry" />
+        <mxCell id="tCGa7qCjwJQuDyG727-U-1" value="挂号机" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="100" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
