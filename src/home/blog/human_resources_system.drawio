@@ -1,1 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T03:36:13.816Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.8" etag="TpCUdLFyqBbsbfwxxzuu" type="github"><diagram id="u4PFLBu-7oimeKmulf4s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T03:37:40.349Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="liwQOAUMTWNI0KuvO6AU" version="15.3.8" type="github" pages="3">
+  <diagram id="u4PFLBu-7oimeKmulf4s" name="Page-1">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyDPf1uHbVpKFPSVQ0tN-2" target="yyDPf1uHbVpKFPSVQ0tN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-2" value="企业人事专员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyDPf1uHbVpKFPSVQ0tN-5" target="yyDPf1uHbVpKFPSVQ0tN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yyDPf1uHbVpKFPSVQ0tN-2" target="yyDPf1uHbVpKFPSVQ0tN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-5" value="招聘岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-6" value="招聘平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-7" value="拟定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-8" value="发布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yyDPf1uHbVpKFPSVQ0tN-10" target="yyDPf1uHbVpKFPSVQ0tN-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-10" value="首轮岗位&lt;br&gt;面试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-11" value="准备多套" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yyDPf1uHbVpKFPSVQ0tN-12" value="提交" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ILT4Hn91dnqJXC9IknLv" name="Page-2">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="d1agydJzCp0T-4Z5_IfE-0" />
+        <mxCell id="d1agydJzCp0T-4Z5_IfE-1" parent="d1agydJzCp0T-4Z5_IfE-0" />
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d1agydJzCp0T-4Z5_IfE-1" source="xTc7yElKRFFXi1GgQEJf-1" target="xTc7yElKRFFXi1GgQEJf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-1" value="求职者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d1agydJzCp0T-4Z5_IfE-1" source="xTc7yElKRFFXi1GgQEJf-3" target="xTc7yElKRFFXi1GgQEJf-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-3" value="招聘平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d1agydJzCp0T-4Z5_IfE-1" source="xTc7yElKRFFXi1GgQEJf-5" target="xTc7yElKRFFXi1GgQEJf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-5" value="匹配求职者与&lt;br&gt;招聘岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d1agydJzCp0T-4Z5_IfE-1" source="xTc7yElKRFFXi1GgQEJf-7" target="xTc7yElKRFFXi1GgQEJf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-7" value="招聘专员审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-8" value="提交简历" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="320" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-9" value="推荐合适简历给人事专员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="275" y="290" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xTc7yElKRFFXi1GgQEJf-10" value="邀请求职者在线参加首轮面试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d1agydJzCp0T-4Z5_IfE-1">
+          <mxGeometry x="190" y="230" width="170" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iolEfPP4Z3iiXaGFD60R" name="Page-3">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="CT-MiXkCWBk5i3HPAyNc-0" />
+        <mxCell id="CT-MiXkCWBk5i3HPAyNc-1" parent="CT-MiXkCWBk5i3HPAyNc-0" />
+        <mxCell id="aGyx9weSk4GxFilZyuMR-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CT-MiXkCWBk5i3HPAyNc-1" source="aGyx9weSk4GxFilZyuMR-1" target="aGyx9weSk4GxFilZyuMR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-1" value="求职者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CT-MiXkCWBk5i3HPAyNc-1" source="aGyx9weSk4GxFilZyuMR-3" target="aGyx9weSk4GxFilZyuMR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-3" value="在线面试系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="520" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CT-MiXkCWBk5i3HPAyNc-1" source="aGyx9weSk4GxFilZyuMR-5" target="aGyx9weSk4GxFilZyuMR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-5" value="调集面试题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CT-MiXkCWBk5i3HPAyNc-1" source="aGyx9weSk4GxFilZyuMR-7" target="aGyx9weSk4GxFilZyuMR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-7" value="生成面试代理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="200" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-8" value="面试代理对面试者面试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="270" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aGyx9weSk4GxFilZyuMR-9" value="登录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CT-MiXkCWBk5i3HPAyNc-1">
+          <mxGeometry x="390" y="130" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
