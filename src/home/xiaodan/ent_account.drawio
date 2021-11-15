@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:42:31.452Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LFI3w3HbimWBjf6-pb28" version="15.7.3" type="github" pages="2">
-  <diagram id="9JbT4rx5dLo_87RHtZOh" name="企业开通">
+<mxfile host="app.diagrams.net" modified="2021-11-15T09:46:29.389Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yo2fSlVrd0JOK84MZsHg" version="15.7.3" type="github" pages="2">
+  <diagram id="9JbT4rx5dLo_87RHtZOh" name="ent_accout_open_00">
     <mxGraphModel dx="711" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -19,24 +19,6 @@
         <mxCell id="geRtrBJkzb4JvVIPxXRN-14" value="注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KvK2dcPK4Z35kGM9sCeA-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="250" as="targetPoint" />
-            <mxPoint x="120" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KvK2dcPK4Z35kGM9sCeA-2" value="开通操作员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="220" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KvK2dcPK4Z35kGM9sCeA-3" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KvK2dcPK4Z35kGM9sCeA-4" value="审核企业注册材料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="240" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="KvK2dcPK4Z35kGM9sCeA-7" value="审核通过,允许开通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="220" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="KvK2dcPK4Z35kGM9sCeA-9" value="隆庆堂中医股份" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=south;size=20;position=0.14;base=10;" vertex="1" parent="1">
           <mxGeometry x="380" y="70" width="140" height="55" as="geometry" />
         </mxCell>
@@ -46,11 +28,29 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Q_hohqVGTc9P09MsL2v3" name="Page-2">
-    <mxGraphModel dx="1422" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+  <diagram id="Q_hohqVGTc9P09MsL2v3" name="ent_account_open_01">
+    <mxGraphModel dx="711" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="BvtJuDQKK1NGsRx4gcom-0" />
         <mxCell id="BvtJuDQKK1NGsRx4gcom-1" parent="BvtJuDQKK1NGsRx4gcom-0" />
+        <mxCell id="LF3leqsBj0CnbBTcz13F-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BvtJuDQKK1NGsRx4gcom-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="80" as="targetPoint" />
+            <mxPoint x="130" y="80" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LF3leqsBj0CnbBTcz13F-1" value="开通操作员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="BvtJuDQKK1NGsRx4gcom-1">
+          <mxGeometry x="90" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LF3leqsBj0CnbBTcz13F-2" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="BvtJuDQKK1NGsRx4gcom-1">
+          <mxGeometry x="250" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LF3leqsBj0CnbBTcz13F-3" value="审核企业注册材料" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="BvtJuDQKK1NGsRx4gcom-1">
+          <mxGeometry x="255" y="70" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LF3leqsBj0CnbBTcz13F-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;审核通过,允许开通&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="BvtJuDQKK1NGsRx4gcom-1">
+          <mxGeometry x="90" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
