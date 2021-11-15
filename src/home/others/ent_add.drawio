@@ -1,1 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T08:01:18.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.3.8" etag="rBAqGNu8xPAIJeeSl05a" type="github"><diagram id="9JbT4rx5dLo_87RHtZOh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-15T08:09:11.028Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EwevolD0we9Z6gKWr-Or" version="15.3.8" type="github">
+  <diagram id="9JbT4rx5dLo_87RHtZOh" name="企业开通">
+    <mxGraphModel dx="948" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geRtrBJkzb4JvVIPxXRN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-1" value="企业管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-7" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="230" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-9" value="企业实例1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geRtrBJkzb4JvVIPxXRN-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-12" value="平台管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-14" value="注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="geRtrBJkzb4JvVIPxXRN-15" value="允许开通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
