@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T09:48:50.794Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8RLHXnclKBFTVvXCaJpQ" version="15.7.3" type="github" pages="2">
-  <diagram id="9JbT4rx5dLo_87RHtZOh" name="ent_accout_open_00">
-    <mxGraphModel dx="711" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-11-15T09:51:20.605Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="e8eS4VZo-56F56cNMuwz" version="15.7.3" type="github" pages="2">
+  <diagram id="9JbT4rx5dLo_87RHtZOh" name="ent_account_open_00">
+    <mxGraphModel dx="711" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q_hohqVGTc9P09MsL2v3" name="ent_account_open_01">
-    <mxGraphModel dx="711" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="BvtJuDQKK1NGsRx4gcom-0" />
         <mxCell id="BvtJuDQKK1NGsRx4gcom-1" parent="BvtJuDQKK1NGsRx4gcom-0" />
