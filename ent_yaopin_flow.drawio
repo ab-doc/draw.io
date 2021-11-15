@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T10:52:15.705Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="PRprKG_Z4fP9bMe1f7tv" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T10:56:02.997Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3rd7uJWz1mxnlhfrlW_g" version="15.7.3" type="github">
   <diagram id="2H4MlD9nmc7M3Q4GgzH_" name="Page-1">
     <mxGraphModel dx="948" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -93,6 +93,32 @@
         </mxCell>
         <mxCell id="smtn6Om_3hF-1TNOFDmH-19" value="流向" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="350" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="smtn6Om_3hF-1TNOFDmH-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="420" as="sourcePoint" />
+            <mxPoint x="200" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="450" />
+              <mxPoint x="150" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smtn6Om_3hF-1TNOFDmH-22" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="420" as="sourcePoint" />
+            <mxPoint x="560" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="450" />
+              <mxPoint x="510" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="smtn6Om_3hF-1TNOFDmH-23" value="控制流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="smtn6Om_3hF-1TNOFDmH-24" value="药品流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="410" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
