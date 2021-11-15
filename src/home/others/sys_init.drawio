@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T08:38:07.278Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ESql3X6dXakRoNyr6XlM" version="15.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-15T08:38:52.439Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="2Fw1zfaAZvQ8pc1FNMav" version="15.3.8" type="github" pages="3">
   <diagram id="hZPbQjz2teNgzwlmYUkK" name="sys_manager_00">
     <mxGraphModel dx="711" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -50,14 +50,14 @@
         <mxCell id="6OKLoz5QRYWBKXCcHKRh-3" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="40" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6OKLoz5QRYWBKXCcHKRh-7" value="系统首次运行初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="60" width="120" height="20" as="geometry" />
+        <mxCell id="6OKLoz5QRYWBKXCcHKRh-7" value="系统初始化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6OKLoz5QRYWBKXCcHKRh-10" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="110" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6OKLoz5QRYWBKXCcHKRh-11" value="首次登录修改密码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="130" width="110" height="20" as="geometry" />
+        <mxCell id="6OKLoz5QRYWBKXCcHKRh-11" value="登录系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="130" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6OKLoz5QRYWBKXCcHKRh-12" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="250" width="180" height="60" as="geometry" />
