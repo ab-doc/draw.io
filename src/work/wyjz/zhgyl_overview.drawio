@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T06:16:50.134Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FyC4iiUv6S5sQXniu2TD" version="20.2.4" type="github">
-  <diagram id="o6OXmS90365OrSwRLali" name="第 1 页">
-    <mxGraphModel dx="1422" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-08-17T06:23:38.005Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NcCc1VyKCU16kaTwf_gE" version="20.2.4" type="github" pages="2">
+  <diagram id="o6OXmS90365OrSwRLali" name="chujiban">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,53 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ORQdb_XszPC-QWwdxvG8-11" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;大清谷疗养云&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6E6E6;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="241" width="240" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="zhongjiban" id="cp-p9IDRzFn6kliFB4ks">
+    <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
+      <root>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-0" />
+        <mxCell id="REcnGBDp7cXe4HOmCII1-1" parent="REcnGBDp7cXe4HOmCII1-0" />
+        <mxCell id="REcnGBDp7cXe4HOmCII1-2" value="机构" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" vertex="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry x="640" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-3" value="家属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" vertex="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry x="200" y="480" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-4" value="民政" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" vertex="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry x="200" y="160" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=1;strokeColor=#E6E6E6;" edge="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="350" as="sourcePoint" />
+            <mxPoint x="220" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=1;strokeColor=#E6E6E6;" edge="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="370" as="sourcePoint" />
+            <mxPoint x="220" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;curved=1;strokeColor=#E6E6E6;" edge="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="350" as="sourcePoint" />
+            <mxPoint x="660" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-8" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" vertex="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry x="640" y="480" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#E6E6E6;" edge="1" parent="REcnGBDp7cXe4HOmCII1-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REcnGBDp7cXe4HOmCII1-10" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;大清谷疗养云&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6E6E6;strokeWidth=2;fillColor=none;" vertex="1" parent="REcnGBDp7cXe4HOmCII1-1">
           <mxGeometry x="320" y="241" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
