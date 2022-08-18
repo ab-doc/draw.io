@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T08:19:23.997Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Z4JyO7FKkvuKrS2sUKhF" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-18T08:22:50.478Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EhcxHOuxzfqb2x2ARBhg" version="20.2.4" type="github" pages="3">
   <diagram id="o6OXmS90365OrSwRLali" name="D_0">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#333333" math="0" shadow="0">
       <root>
@@ -7,7 +7,10 @@
         <mxCell id="bhAEWXer5qA2Sv7WhRgn-4" value="养老机构" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFFF;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="640" y="160" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bhAEWXer5qA2Sv7WhRgn-5" value="老人家属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="wRrz-ZKk-duMLygGhrYA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;" edge="1" parent="1" source="bhAEWXer5qA2Sv7WhRgn-5" target="wRrz-ZKk-duMLygGhrYA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bhAEWXer5qA2Sv7WhRgn-5" value="老人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="480" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bhAEWXer5qA2Sv7WhRgn-6" value="监管部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
@@ -57,6 +60,12 @@
         </mxCell>
         <mxCell id="ZxOeZfEIXML-Bi1Rbfld-1" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;大清谷一期 基础模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wRrz-ZKk-duMLygGhrYA-2" value="老人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wRrz-ZKk-duMLygGhrYA-5" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;监护&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="480" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
