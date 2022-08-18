@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2022-08-18T03:34:51.824Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XXeKaHrnEApy4fTGE02Y" version="20.2.4" type="github">
+  <diagram id="o6OXmS90365OrSwRLali" name="beginner_level">
+    <mxGraphModel dx="2622" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#333333" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;curved=1;" edge="1" parent="1" source="nGH60VJGJcq-LF6p8v-s-6" target="nGH60VJGJcq-LF6p8v-s-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#E6E6E6;strokeColor=#E6E6E6;curved=1;" edge="1" parent="1" source="nGH60VJGJcq-LF6p8v-s-6" target="nGH60VJGJcq-LF6p8v-s-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;" edge="1" parent="1" source="nGH60VJGJcq-LF6p8v-s-6" target="nGH60VJGJcq-LF6p8v-s-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-6" value="&lt;font color=&quot;#e6e6e6&quot;&gt;家属&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="41" y="320" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-14" value="&lt;font color=&quot;#e6e6e6&quot;&gt;养老机构&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-18" value="&lt;font color=&quot;#e6e6e6&quot;&gt;监管部门&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nGH60VJGJcq-LF6p8v-s-28" value="&lt;font color=&quot;#e6e6e6&quot;&gt;老人&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="41" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
