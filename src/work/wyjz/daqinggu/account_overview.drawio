@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T09:36:21.721Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="YsPqTlRY05VYD7vm21px" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T09:38:19.897Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VcGZ1GBqyDzoeszZvCbf" version="20.2.4" type="github">
   <diagram id="o6OXmS90365OrSwRLali" name="overview">
     <mxGraphModel dx="2249" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="3lLjW_SJBXpCS5TzsEJV-38" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;平台客服账号&lt;/b&gt;&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="241" y="720" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1IEO1ovB_ObImVmrCMqp-1" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;基于家属基础角色的账号体系模型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7" y="895" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
