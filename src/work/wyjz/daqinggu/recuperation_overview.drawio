@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-17T10:28:36.880Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KcCpfhBwaoQCK9uPFWUl" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-18T06:39:54.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="V5_dr4Jsv0PMFRtElosK" version="20.2.4" type="github" pages="3">
   <diagram id="o6OXmS90365OrSwRLali" name="beginner_level">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#333333" math="0" shadow="0">
       <root>
@@ -42,6 +42,18 @@
         </mxCell>
         <mxCell id="ORQdb_XszPC-QWwdxvG8-11" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;大清谷疗养云&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6E6E6;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="241" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua2X89EpMC-r-trDhEld-1" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;入驻&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua2X89EpMC-r-trDhEld-2" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;入驻&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua2X89EpMC-r-trDhEld-3" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;注册&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ua2X89EpMC-r-trDhEld-4" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;运营&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
