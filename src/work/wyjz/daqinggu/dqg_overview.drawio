@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T08:22:50.478Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="EhcxHOuxzfqb2x2ARBhg" version="20.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-18T08:23:30.443Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ROgMbjY9OYsu9Z_3Ibs1" version="20.2.4" type="github" pages="3">
   <diagram id="o6OXmS90365OrSwRLali" name="D_0">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#333333" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="wRrz-ZKk-duMLygGhrYA-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E6E6E6;" edge="1" parent="1" source="bhAEWXer5qA2Sv7WhRgn-5" target="wRrz-ZKk-duMLygGhrYA-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bhAEWXer5qA2Sv7WhRgn-5" value="老人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="bhAEWXer5qA2Sv7WhRgn-5" value="家属" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="480" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bhAEWXer5qA2Sv7WhRgn-6" value="监管部门" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#E6E6E6;fontColor=#E6E6E6;fontStyle=1" parent="1" vertex="1">
