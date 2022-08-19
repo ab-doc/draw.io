@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:01:39.880Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="9DMuIUQJghoouFacrW6q" version="20.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:07:24.769Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="xfgMY4oRSbjj0MaNcOVZ" version="20.2.4" type="github" pages="4">
   <diagram id="o6OXmS90365OrSwRLali" name="20220819092615">
     <mxGraphModel dx="1422" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#333333" math="0" shadow="0">
       <root>
@@ -188,7 +188,7 @@
         <mxCell id="DfIjhilFXCT8Tp8RL3AB-11" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;劳务&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6E6E6;strokeWidth=2;fillColor=none;" vertex="1" parent="DfIjhilFXCT8Tp8RL3AB-1">
           <mxGeometry x="-5" y="182" width="81" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="DfIjhilFXCT8Tp8RL3AB-12" value="&lt;b&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;大清谷二期模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfIjhilFXCT8Tp8RL3AB-1">
+        <mxCell id="DfIjhilFXCT8Tp8RL3AB-12" value="&lt;b&gt;&lt;font color=&quot;#e6e6e6&quot;&gt;大清谷三期模型&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DfIjhilFXCT8Tp8RL3AB-1">
           <mxGeometry x="264.5" y="860" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DfIjhilFXCT8Tp8RL3AB-13" value="&lt;font color=&quot;#e6e6e6&quot;&gt;&lt;b&gt;基层社区&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E6E6E6;strokeWidth=2;fillColor=none;" vertex="1" parent="DfIjhilFXCT8Tp8RL3AB-1">
