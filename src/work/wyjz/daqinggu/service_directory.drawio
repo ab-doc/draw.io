@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T09:54:45.435Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="FOWv0gtax5RX1pR6JTO1" version="20.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:57:30.492Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TIQaAApwziVWBmVlVHvP" version="20.2.7" type="github" pages="4">
   <diagram name="20220826174005" id="UIefMi1nblikckEEUAvr">
-    <mxGraphModel dx="1453" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="l2UZU11mLCKEzZHz80uh-0" />
         <mxCell id="l2UZU11mLCKEzZHz80uh-1" parent="l2UZU11mLCKEzZHz80uh-0" />
@@ -9,6 +9,15 @@
         </mxCell>
         <mxCell id="l2UZU11mLCKEzZHz80uh-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="l2UZU11mLCKEzZHz80uh-2">
           <mxGeometry x="45" y="220" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ai988G2sDutGxaEj6seS-4" value="生成令牌" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="l2UZU11mLCKEzZHz80uh-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="241.98000000000002" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="241.98000000000002" />
+            </Array>
+            <mxPoint x="60" y="261.98" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l2UZU11mLCKEzZHz80uh-4" value=":服务调用方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="l2UZU11mLCKEzZHz80uh-1">
           <mxGeometry x="40" y="40" width="100" height="340" as="geometry" />
@@ -108,7 +117,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N3cFrz7gqjkX9O7b0Cor" name="20220826170842">
-    <mxGraphModel dx="1162" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1453" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
