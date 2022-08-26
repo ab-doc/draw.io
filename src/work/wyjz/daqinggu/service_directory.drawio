@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T08:46:57.503Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hRr_O1CQ_-WRn10plyde" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-26T09:02:20.305Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZXr2zsyq_P8wVsZnxpXi" version="20.2.7" type="github" pages="2">
   <diagram name="20220826144709" id="qixWuvM1-gqjRlWaRBJ4">
-    <mxGraphModel dx="2496" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2362" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-0" />
         <mxCell id="11cV9xK3FdpmXqE9hAwU-1" parent="11cV9xK3FdpmXqE9hAwU-0" />
@@ -355,7 +355,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-131" value="sd_interface_apply" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
-          <mxGeometry x="160" y="50" width="180" height="190" as="geometry" />
+          <mxGeometry x="-100" y="540" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-131">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -423,7 +423,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-144" value="sd_interface_schema" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
-          <mxGeometry x="160" y="270" width="180" height="340" as="geometry" />
+          <mxGeometry x="140" y="50" width="180" height="340" as="geometry" />
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-144">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -676,7 +676,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-200" value="sd_request_log" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
-          <mxGeometry x="-100" y="650" width="180" height="190" as="geometry" />
+          <mxGeometry x="140" y="430" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="11cV9xK3FdpmXqE9hAwU-201" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-200">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -743,8 +743,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="11cV9xK3FdpmXqE9hAwU-213" value="&lt;b&gt;服务目录及数据接口审批数据库模型草稿&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
-          <mxGeometry x="-240" y="880" width="240" height="30" as="geometry" />
+        <mxCell id="11cV9xK3FdpmXqE9hAwU-213" value="&lt;b&gt;服务目录及数据接口审批数据库模型草图&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
+          <mxGeometry x="-360" y="940" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RfiR10XVQCvgsBdYIyu3-50" value="sd_interface_app" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
           <mxGeometry x="-100" y="50" width="180" height="190" as="geometry" />
@@ -936,6 +936,12 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xEozJtSeNA8j-AvKHQHI-66" value="&lt;span style=&quot;&quot;&gt;考虑到性能，&lt;/span&gt;&lt;span style=&quot;font-weight: 700; text-align: center;&quot;&gt;sd_access_token_app&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;反映的关系&lt;/span&gt;&lt;span style=&quot;&quot;&gt;可以存储到Redis中去&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
+          <mxGeometry x="-360" y="840" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xEozJtSeNA8j-AvKHQHI-67" value="申请通过以后，向表sd_interface_app中添加一条记录，代表该企业可以访问该接口" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="11cV9xK3FdpmXqE9hAwU-1">
+          <mxGeometry x="-100" y="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
