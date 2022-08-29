@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2022-08-29T02:22:18.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W_ZY3Q1IF311XLqOCO56" version="20.2.7" type="github">
+  <diagram id="vAwgTfI1snu9vjzRsWe6" name="20220829101458">
+    <mxGraphModel dx="1408" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fR5NdfvhwlHGz92G8eyH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fR5NdfvhwlHGz92G8eyH-2" value="&lt;b&gt;接口名称&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="170" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
