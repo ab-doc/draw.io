@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T09:01:09.884Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="oCLUjpyvTzGpaS4_Awi_" version="20.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-29T09:11:49.709Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="cSWJP6IRbTb92IVMERw7" version="20.3.7" type="github" pages="7">
   <diagram id="LnF_ol3maXz9M8VQDrvC" name="20220826144656">
     <mxGraphModel dx="2688" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1864,8 +1864,8 @@
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-33" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="535" y="1060" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="240" width="70" height="970" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="250" width="70" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-35" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;数&lt;br&gt;字&lt;br&gt;运&lt;br&gt;维&lt;br&gt;系&lt;br&gt;统&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="830" y="710" width="30" height="90" as="geometry" />
@@ -1956,6 +1956,27 @@
         </mxCell>
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-69" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;数&lt;br&gt;据&lt;br&gt;总&lt;br&gt;线&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="475" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="70" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-71" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;版&lt;br&gt;本&lt;br&gt;控&lt;br&gt;制&lt;br&gt;、&lt;br&gt;质&lt;br&gt;量&lt;br&gt;管&lt;br&gt;理&lt;br&gt;、&lt;br&gt;软&lt;br&gt;件&lt;br&gt;分&lt;br&gt;发&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="70" y="665" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-72" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="475" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-73" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/iPhone_128x128.png;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-74" value="" style="image;html=1;image=img/lib/clip_art/networking/Repeater_128x128.png;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-77" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-78" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png;rounded=0;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
