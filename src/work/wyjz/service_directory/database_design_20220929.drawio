@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T08:32:14.208Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="yN_-4v-QG3asNzIX4RSi" version="20.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-29T08:53:42.787Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="l8qdxvQP1d2KJ5gtdBkW" version="20.3.7" type="github" pages="7">
   <diagram id="LnF_ol3maXz9M8VQDrvC" name="20220826144656">
     <mxGraphModel dx="2688" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1779,7 +1779,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_CB03lR70zG8bpTRdMBS" name="20220929154540">
-    <mxGraphModel dx="1125" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1870,9 +1870,6 @@
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-35" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;数&lt;br&gt;字&lt;br&gt;运&lt;br&gt;维&lt;br&gt;系&lt;br&gt;统&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="830" y="710" width="30" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1150" width="570" height="210" as="geometry" />
-        </mxCell>
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="570" height="140" as="geometry" />
         </mxCell>
@@ -1885,29 +1882,77 @@
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-40" value="&lt;b&gt;系统网关&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="260" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-41" value="批处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="205" y="1400" width="160" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="205" y="1140" width="570" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-42" value="流处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1400" width="160" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-68">
+          <mxGeometry width="570" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-43" value="实时处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1400" width="160" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-64" value="" style="group" vertex="1" connectable="0" parent="4GpsCvpXbNQGkZF5fnXk-68">
+          <mxGeometry x="15" y="70" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-44" value="风控模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1180" width="60" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-45" value="推荐模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="1180" width="60" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-46" value="预警模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1180" width="60" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="380" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-47" value="决策分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1180" width="60" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-50" value="&lt;b&gt;批处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="55" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-49" value="经营分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1180" width="60" height="20" as="geometry" />
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-52" value="&lt;b&gt;Hadoop&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-53" value="&lt;b&gt;Python&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="60" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-54" value="&lt;b&gt;R&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="120" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-55" value="&lt;b&gt;流处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="245" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-56" value="&lt;b&gt;Kafka&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="220" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-57" value="&lt;b&gt;Spark&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="270" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-58" value="&lt;b&gt;实时处理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-59" value="&lt;b&gt;Kafka&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="390" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-60" value="&lt;b&gt;Flink&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="440" y="30" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-61" value="&lt;b&gt;Storm&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-64">
+          <mxGeometry x="480" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-66" value="" style="group" vertex="1" connectable="0" parent="4GpsCvpXbNQGkZF5fnXk-68">
+          <mxGeometry x="20" y="30" width="525" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-44" value="风控模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-66">
+          <mxGeometry width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-45" value="推荐模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-66">
+          <mxGeometry x="106" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-46" value="预警模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-66">
+          <mxGeometry x="216" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-47" value="决策分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-66">
+          <mxGeometry x="325" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-49" value="经营分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-66">
+          <mxGeometry x="435" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-67" value="&lt;b&gt;大数据分析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Verdana;" vertex="1" parent="4GpsCvpXbNQGkZF5fnXk-68">
+          <mxGeometry x="230" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
