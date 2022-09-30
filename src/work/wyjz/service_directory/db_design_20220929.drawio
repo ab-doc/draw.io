@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T01:47:20.642Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BoTu_fGiYLM4kfa_YZGM" version="20.3.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-09-30T01:47:37.214Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R2hQOOlW_23nAJwwPfN7" version="20.3.7" type="github" pages="7">
   <diagram id="LnF_ol3maXz9M8VQDrvC" name="20220826144656">
     <mxGraphModel dx="2608" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -1876,7 +1876,7 @@
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-38" value="应用网关" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="300" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4GpsCvpXbNQGkZF5fnXk-39" value="开放接口网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#B9E0A5;" parent="1" vertex="1">
+        <mxCell id="4GpsCvpXbNQGkZF5fnXk-39" value="开放接口网关" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#CCE5FF;" parent="1" vertex="1">
           <mxGeometry x="520" y="300" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4GpsCvpXbNQGkZF5fnXk-40" value="&lt;b&gt;系统网关&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
