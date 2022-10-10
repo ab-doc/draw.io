@@ -1,6 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T08:29:58.096Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="YVosCg5VB1UBm3rGDMG1" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-10T08:46:16.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xdvf92Re0Z-HGbZ2xG46" version="20.4.0" type="github" pages="3">
+  <diagram name="20221010164310" id="gy6nlpveG3f7GiaCG15i">
+    <mxGraphModel dx="924" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-0" />
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-1" parent="DraJJuAHOcvPgnh4uwFL-0" />
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="DraJJuAHOcvPgnh4uwFL-1" source="DraJJuAHOcvPgnh4uwFL-12" target="DraJJuAHOcvPgnh4uwFL-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="251" y="194.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOWOsG2BiRnHnq_Rkf4H-1" value="git push --mirror" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DraJJuAHOcvPgnh4uwFL-10">
+          <mxGeometry x="0.3076" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DraJJuAHOcvPgnh4uwFL-1" source="DraJJuAHOcvPgnh4uwFL-12" target="DraJJuAHOcvPgnh4uwFL-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="63" y="194.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aOWOsG2BiRnHnq_Rkf4H-0" value="git clone --bare" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DraJJuAHOcvPgnh4uwFL-11">
+          <mxGeometry x="0.2258" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-12" value="" style="shape=mxgraph.cisco.people.pc_man;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="DraJJuAHOcvPgnh4uwFL-1">
+          <mxGeometry x="120" y="160" width="74" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-13" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="DraJJuAHOcvPgnh4uwFL-1">
+          <mxGeometry x="60" y="82" width="43" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="DraJJuAHOcvPgnh4uwFL-14" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="DraJJuAHOcvPgnh4uwFL-1">
+          <mxGeometry x="220" y="82" width="43" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="aOWOsG2BiRnHnq_Rkf4H-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;服务器1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DraJJuAHOcvPgnh4uwFL-1">
+          <mxGeometry x="40" y="51" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aOWOsG2BiRnHnq_Rkf4H-4" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;服务器2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DraJJuAHOcvPgnh4uwFL-1">
+          <mxGeometry x="206.5" y="51" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="20221010162110" id="3HABgmHqqW5baj-3t9z8">
-    <mxGraphModel dx="841" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="924" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="suRAfqg6CjxLi9MMDhd2-0" />
         <mxCell id="suRAfqg6CjxLi9MMDhd2-1" parent="suRAfqg6CjxLi9MMDhd2-0" />
@@ -33,11 +76,14 @@
         <mxCell id="UG6p2U2NHbP9j15jlaxX-6" value="服务器2" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="suRAfqg6CjxLi9MMDhd2-1">
           <mxGeometry x="260" y="40" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="UG6p2U2NHbP9j15jlaxX-13" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png" vertex="1" parent="suRAfqg6CjxLi9MMDhd2-1">
+          <mxGeometry x="140" y="190" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UyHtFqi2HpBrdYgdCdot" name="20221010162049">
-    <mxGraphModel dx="1422" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
