@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-08T04:55:48.197Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-ExJu6bzejuMTGUJUQY8" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-08T04:57:49.400Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ypGaEp366eHbTxUauADR" version="21.2.9" type="github">
   <diagram name="第 1 页" id="ds6DmyHLy8N-MVNwUg1l">
     <mxGraphModel dx="717" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
           <mxGeometry x="41" y="40" width="180" height="800" as="geometry" />
         </mxCell>
         <mxCell id="F45F0Zymsa6q3hlHXLxK-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="-v_hblp8aSIAd71ABCoE-1">
-          <mxGeometry x="85" y="80" width="10" height="200" as="geometry" />
+          <mxGeometry x="85" y="80" width="10" height="380" as="geometry" />
         </mxCell>
         <mxCell id="F45F0Zymsa6q3hlHXLxK-12" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="F45F0Zymsa6q3hlHXLxK-5" target="F45F0Zymsa6q3hlHXLxK-11">
           <mxGeometry relative="1" as="geometry">
@@ -196,6 +196,17 @@
         <mxCell id="F45F0Zymsa6q3hlHXLxK-56" value="返回账号详情信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F45F0Zymsa6q3hlHXLxK-55">
           <mxGeometry x="-0.0451" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F45F0Zymsa6q3hlHXLxK-58" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="460" as="sourcePoint" />
+            <mxPoint x="136" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F45F0Zymsa6q3hlHXLxK-59" value="呈现登录&lt;br&gt;成功页面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F45F0Zymsa6q3hlHXLxK-58">
+          <mxGeometry x="0.1196" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
