@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:19:29.695Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Cb00FaB2-IgxZW9BfcOB" version="21.2.9" type="github">
+  <diagram name="从采购系统登录到商城系统交互逻辑" id="j8WBIBVknSNu1XmUjdeU">
+    <mxGraphModel dx="1660" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-0" />
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-1" parent="H5cVejKP9JeCfFEW8kaw-0" />
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-2" value="&lt;b&gt;:MALL-CONSOLE-BACK&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="801" y="81" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-13" value="&lt;b&gt;:SPS-PORTAL-WEB&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="1160" y="81" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-15" value="&lt;b&gt;:SPS-PORTAL-BACK&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="1521" y="81" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-21" value="&lt;b&gt;:采购方&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="81" y="81" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-22" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-21" vertex="1">
+          <mxGeometry x="115" y="80" width="10" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-27" value="&lt;b&gt;:MALL-CONSOLE-WEB&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="440" y="81" width="240" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-41" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;从采购系统登录到商城系统交互逻辑&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="H5cVejKP9JeCfFEW8kaw-1" vertex="1">
+          <mxGeometry x="117" y="23" width="280" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
