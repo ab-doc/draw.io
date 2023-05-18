@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T08:02:41.834Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vsgpyt2FYij1sGfoqZtE" version="21.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-18T08:03:52.954Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="-fJM4eauHp2RuH0iWM08" version="21.2.9" type="github" pages="2">
   <diagram name="从采购系统登录到商城系统交互逻辑" id="j8WBIBVknSNu1XmUjdeU">
-    <mxGraphModel dx="1660" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="H5cVejKP9JeCfFEW8kaw-0" />
         <mxCell id="H5cVejKP9JeCfFEW8kaw-1" parent="H5cVejKP9JeCfFEW8kaw-0" />
@@ -225,8 +225,8 @@
             <mxPoint x="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H5cVejKP9JeCfFEW8kaw-41" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;从商城系统登录交互逻辑&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="H5cVejKP9JeCfFEW8kaw-1">
-          <mxGeometry x="24" y="23" width="200" height="30" as="geometry" />
+        <mxCell id="H5cVejKP9JeCfFEW8kaw-41" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;从采购系统登录到商城系统交互逻辑&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="H5cVejKP9JeCfFEW8kaw-1">
+          <mxGeometry x="36" y="23" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
