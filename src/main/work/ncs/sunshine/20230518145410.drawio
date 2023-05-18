@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T07:47:25.070Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mTTmpheUigQp9hla0t1O" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:49:04.589Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="LUwBPmGk4beZcY4MDotm" version="21.2.9" type="github">
   <diagram name="从商城系统登录交互逻辑" id="u5bGN3QoCaFEteD9rDr-">
     <mxGraphModel dx="717" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="C95wEXUyGodqOr3t600D-0" />
         <mxCell id="C95wEXUyGodqOr3t600D-1" parent="C95wEXUyGodqOr3t600D-0" />
-        <mxCell id="C95wEXUyGodqOr3t600D-28" value=":MALL-CONSOLE-BACK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
+        <mxCell id="C95wEXUyGodqOr3t600D-28" value="&lt;b&gt;:MALL-CONSOLE-BACK&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
           <mxGeometry x="508" y="81" width="220" height="800" as="geometry" />
         </mxCell>
         <mxCell id="X04YHawdPwbHhBIBYi1X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="C95wEXUyGodqOr3t600D-28">
@@ -64,13 +64,13 @@
             <mxPoint x="90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C95wEXUyGodqOr3t600D-16" value=":SPS-PORTAL-WEB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
+        <mxCell id="C95wEXUyGodqOr3t600D-16" value="&lt;b&gt;:SPS-PORTAL-WEB&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
           <mxGeometry x="759" y="81" width="180" height="800" as="geometry" />
         </mxCell>
         <mxCell id="C95wEXUyGodqOr3t600D-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-16" vertex="1">
           <mxGeometry x="86" y="140" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="C95wEXUyGodqOr3t600D-20" value=":SPS-PORTAL-BACK" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
+        <mxCell id="C95wEXUyGodqOr3t600D-20" value="&lt;b&gt;:SPS-PORTAL-BACK&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
           <mxGeometry x="990" y="81" width="180" height="800" as="geometry" />
         </mxCell>
         <mxCell id="C95wEXUyGodqOr3t600D-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-20" vertex="1">
@@ -109,7 +109,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C95wEXUyGodqOr3t600D-4" value=":采购方" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
+        <mxCell id="C95wEXUyGodqOr3t600D-4" value="&lt;b&gt;:采购方&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
           <mxGeometry x="40" y="81" width="180" height="800" as="geometry" />
         </mxCell>
         <mxCell id="C95wEXUyGodqOr3t600D-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-4" vertex="1">
@@ -142,7 +142,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C95wEXUyGodqOr3t600D-10" value=":MALL-CONSOLE-WEB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
+        <mxCell id="C95wEXUyGodqOr3t600D-10" value="&lt;b&gt;:MALL-CONSOLE-WEB&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-1" vertex="1">
           <mxGeometry x="258" y="81" width="180" height="800" as="geometry" />
         </mxCell>
         <mxCell id="C95wEXUyGodqOr3t600D-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="C95wEXUyGodqOr3t600D-10" vertex="1">
