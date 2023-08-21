@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T07:24:33.070Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TZsckxXyhwz7OY_Oif9Z" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-21T07:31:49.540Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iDAT4TWxfpxG6O2P677Q" version="21.6.8" type="github">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-0" />
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-1" parent="sdHGfgtrLrPXHbDimJ2l-0" />
@@ -18,9 +18,19 @@
             <mxPoint x="200" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-66" value="添加UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-12">
+          <mxGeometry x="0.0588" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520.0400000000002" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-65" value="添加UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-22">
+          <mxGeometry x="-0.0799" y="-2" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-2" value="USB Server&lt;br&gt;192.168.101.101" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
@@ -31,9 +41,19 @@
             <mxPoint x="200.03999999999996" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-72" value="操作按键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-18">
+          <mxGeometry x="0.7714" relative="1" as="geometry">
+            <mxPoint x="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520.0400000000002" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-71" value="操作按键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-20">
+          <mxGeometry x="0.3931" y="1" relative="1" as="geometry">
+            <mxPoint x="32" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-3">
@@ -41,9 +61,19 @@
             <mxPoint x="840.0400000000002" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-3">
+        <mxCell id="XszwH73IWbjCUJtmpfXL-70" value="操作按键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-24">
+          <mxGeometry x="0.4865" y="-2" relative="1" as="geometry">
+            <mxPoint x="25" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170.04" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-69" value="操作按键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-26">
+          <mxGeometry x="0.792" y="-3" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-3">
@@ -52,6 +82,11 @@
             <Array as="points">
               <mxPoint x="680" y="120" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-63" value="查询UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-28">
+          <mxGeometry x="0.6" y="2" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
@@ -63,7 +98,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-3" value="U盾操作员主机&lt;br&gt;192.168.101.251" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+        <mxCell id="XszwH73IWbjCUJtmpfXL-64" value="查询UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-30">
+          <mxGeometry x="0.6084" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-3" value="U盾操作员&lt;br&gt;192.168.101.251" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="560" y="440" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-4">
@@ -71,9 +111,19 @@
             <mxPoint x="1170" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-68" value="添加UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-14">
+          <mxGeometry x="-0.0772" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XszwH73IWbjCUJtmpfXL-67" value="添加UKOK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XszwH73IWbjCUJtmpfXL-16">
+          <mxGeometry x="-0.0196" relative="1" as="geometry">
+            <mxPoint x="1" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-4" value="USB Server&lt;br&gt;192.168.101.102" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
