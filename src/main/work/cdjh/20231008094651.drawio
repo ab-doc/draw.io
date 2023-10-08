@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T02:26:53.201Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="q0wH6LGDEYzdaR-7m2lK" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-08T02:33:05.310Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="VwNKUyBPokMorPyZNMDX" version="21.6.8" type="github" pages="3">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1339" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -21,19 +21,9 @@
             <mxPoint x="200" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-66" value="借助rfsnu命令行管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XszwH73IWbjCUJtmpfXL-12" vertex="1" connectable="0">
-          <mxGeometry x="0.0588" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520.0400000000002" y="281" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-65" value="借助Python Socket完成按键" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XszwH73IWbjCUJtmpfXL-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.0799" y="-2" relative="1" as="geometry">
-            <mxPoint x="22" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XszwH73IWbjCUJtmpfXL-2" value="RPA&lt;br&gt;192.168.1.x" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
@@ -44,6 +34,12 @@
         </mxCell>
         <mxCell id="VvmvJke4Juu_4SZehkci-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="202" y="388" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWYm3g52zAWrpgkEuTE_-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="210" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fWYm3g52zAWrpgkEuTE_-1" value="借助Python Socket完成按键" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="360" y="190" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
