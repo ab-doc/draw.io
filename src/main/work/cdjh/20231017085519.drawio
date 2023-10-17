@@ -1,147 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T00:55:43.617Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-qrIQm5Ajj1NCvhF49Li" version="22.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-10-17T01:17:49.593Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ia_K9a2ok-vSKRFWgmNK" version="22.0.4" type="github" pages="2">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
-    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-0" />
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-1" parent="sdHGfgtrLrPXHbDimJ2l-0" />
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-57" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;RPA全局函数管理U盾服务器与按键矩阵工作原理&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
           <mxGeometry x="80" y="20" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j3NfLktUV9PSBxsToWwP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-0" target="j3NfLktUV9PSBxsToWwP-0" edge="1">
+        <mxCell id="4jgcVAzd8omzdndsgLxq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="4jgcVAzd8omzdndsgLxq-2" target="4jgcVAzd8omzdndsgLxq-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-0" value="RPUSI Utility&lt;br&gt;(作为私服，包含了命令行rfsnu命令行)" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="80" y="280" width="240" height="80" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="4jgcVAzd8omzdndsgLxq-2" target="4jgcVAzd8omzdndsgLxq-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-1" value="按键矩阵&lt;br&gt;192.168.1.12" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="400" y="280" width="240" height="80" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-2" value="MQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="282" y="242" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-2" edge="1">
+        <mxCell id="4jgcVAzd8omzdndsgLxq-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="4jgcVAzd8omzdndsgLxq-3" target="4jgcVAzd8omzdndsgLxq-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="281" as="targetPoint" />
+            <mxPoint x="762" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="XszwH73IWbjCUJtmpfXL-2" edge="1">
+        <mxCell id="4jgcVAzd8omzdndsgLxq-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="4jgcVAzd8omzdndsgLxq-3" target="4jgcVAzd8omzdndsgLxq-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520.0400000000002" y="281" as="targetPoint" />
+            <mxPoint x="1162" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XszwH73IWbjCUJtmpfXL-2" value="RPA&lt;br&gt;192.168.1.x" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="240" y="80" width="240" height="80" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-3" value="MQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="682" y="242" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j3NfLktUV9PSBxsToWwP-0" value="USB SERVER&lt;br&gt;192.168.1.13" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="80" y="440" width="240" height="80" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-5" value="将已经处理完成的数据&lt;br&gt;写入已处理数据目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="882" y="122" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VvmvJke4Juu_4SZehkci-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="202" y="388" width="130" height="30" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-8" value="读取待处理数据目录&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;中的数据文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="82" y="122" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fWYm3g52zAWrpgkEuTE_-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="210" y="190" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fWYm3g52zAWrpgkEuTE_-1" value="借助Python Socket完成按键" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="360" y="190" width="170" height="30" as="geometry" />
+        <mxCell id="4jgcVAzd8omzdndsgLxq-10" value="数据处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="482" y="122" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="0002" id="1B6HJ8A9Ntk-iKepa36_">
-    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="0002" id="PdEO4ydgansFBNDHehm9">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        <mxCell id="aizAFdCAIHgT3mpszPbv-0" />
-        <mxCell id="aizAFdCAIHgT3mpszPbv-1" parent="aizAFdCAIHgT3mpszPbv-0" />
-        <mxCell id="aizAFdCAIHgT3mpszPbv-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;U盾安全管控平台管理USB服务器与按键矩阵工作原理&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="80" y="20" width="400" height="30" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-0" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-1" parent="MVbzjsdvRDn2bCg9JIur-0" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;RPA全局函数管理U盾服务器与按键矩阵工作原理&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="80" y="20" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" source="aizAFdCAIHgT3mpszPbv-9" target="eona6AYY2jx1QvUv0gLW-2" edge="1">
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MVbzjsdvRDn2bCg9JIur-1" source="MVbzjsdvRDn2bCg9JIur-5" target="MVbzjsdvRDn2bCg9JIur-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aizAFdCAIHgT3mpszPbv-9" value="RPUSI&amp;nbsp;Utility Client&lt;br&gt;192.168.1.x" style="rounded=0;whiteSpace=wrap;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="240" y="80" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" source="eona6AYY2jx1QvUv0gLW-2" target="eona6AYY2jx1QvUv0gLW-4" edge="1">
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MVbzjsdvRDn2bCg9JIur-1" source="MVbzjsdvRDn2bCg9JIur-5" target="MVbzjsdvRDn2bCg9JIur-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" source="eona6AYY2jx1QvUv0gLW-2" target="eona6AYY2jx1QvUv0gLW-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-5" value="MQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="282" y="242" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-2" value="RPUSI&amp;nbsp;USB Manager System&lt;br&gt;192.168.1.14" style="rounded=0;whiteSpace=wrap;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="240" y="221" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" source="eona6AYY2jx1QvUv0gLW-4" target="eona6AYY2jx1QvUv0gLW-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-4" value="RPUSI Utility&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(作为私服，包含了命令行rfsnu命令行)" style="rounded=0;whiteSpace=wrap;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="80" y="399" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-6" value="按键矩阵&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.12" style="rounded=0;whiteSpace=wrap;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="401" y="399" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="eona6AYY2jx1QvUv0gLW-8" value="USB SERVER&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.13" style="rounded=0;whiteSpace=wrap;html=1;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="80" y="545" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PMnGz-r5nmb8NvjvHNO3-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="210" y="500" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zXJ6jjguNAWRebmGnhUO-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="202" y="320" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zXJ6jjguNAWRebmGnhUO-1" value="借助Java Socket管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="aizAFdCAIHgT3mpszPbv-1" vertex="1">
-          <mxGeometry x="385" y="320" width="140" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="0003" id="LIyJhQ4XC5K2nk2e5Q6-">
-    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-0" />
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-1" parent="5D9uMLQtcs8bq2lD23kI-0" />
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;U盾集中管理人与RPA管理USB服务器与按键矩阵工作原理&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="80" y="20" width="440" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" source="5D9uMLQtcs8bq2lD23kI-4" target="5D9uMLQtcs8bq2lD23kI-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-4" value="RPUSI&amp;nbsp;Utility Client&lt;br&gt;192.168.1.x" style="rounded=0;whiteSpace=wrap;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="399" y="80" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" source="5D9uMLQtcs8bq2lD23kI-9" target="5D9uMLQtcs8bq2lD23kI-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sIKqFnFMS_hIG7DQ3vHO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" source="5D9uMLQtcs8bq2lD23kI-9" edge="1">
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MVbzjsdvRDn2bCg9JIur-1" source="MVbzjsdvRDn2bCg9JIur-8" target="MVbzjsdvRDn2bCg9JIur-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779" y="261" as="targetPoint" />
+            <mxPoint x="762" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-9" value="RPUSI&amp;nbsp;USB Manager System&lt;br&gt;192.168.1.14" style="rounded=0;whiteSpace=wrap;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="399" y="221" width="240" height="80" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MVbzjsdvRDn2bCg9JIur-1" source="MVbzjsdvRDn2bCg9JIur-8" target="MVbzjsdvRDn2bCg9JIur-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162" y="162" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" source="5D9uMLQtcs8bq2lD23kI-11" target="5D9uMLQtcs8bq2lD23kI-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-8" value="MQ" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="682" y="242" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-11" value="RPUSI Utility&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(作为私服，包含了命令行rfsnu命令行)" style="rounded=0;whiteSpace=wrap;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="80" y="399" width="560" height="80" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-9" value="将已经处理完成的数据&lt;br&gt;写入已处理数据目录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="882" y="122" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-13" value="USB SERVER&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;192.168.1.13" style="rounded=0;whiteSpace=wrap;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="240" y="545" width="240" height="80" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-10" value="读取待处理数据目录&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;中的数据文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="82" y="122" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5D9uMLQtcs8bq2lD23kI-14" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="218" y="500" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sIKqFnFMS_hIG7DQ3vHO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" source="sIKqFnFMS_hIG7DQ3vHO-0" target="5D9uMLQtcs8bq2lD23kI-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sIKqFnFMS_hIG7DQ3vHO-0" value="i-Search RPA" style="rounded=0;whiteSpace=wrap;html=1;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="79" y="221" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sIKqFnFMS_hIG7DQ3vHO-3" value="mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="780" y="221" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sIKqFnFMS_hIG7DQ3vHO-6" value="管理相关信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="658" y="228" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="M7ttNQP2K8aPa3FwJi5b-0" value="借助rfsnu命令行管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5D9uMLQtcs8bq2lD23kI-1" vertex="1">
-          <mxGeometry x="296" y="315" width="130" height="30" as="geometry" />
+        <mxCell id="MVbzjsdvRDn2bCg9JIur-11" value="数据处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="MVbzjsdvRDn2bCg9JIur-1">
+          <mxGeometry x="482" y="122" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
