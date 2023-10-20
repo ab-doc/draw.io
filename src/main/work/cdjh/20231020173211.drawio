@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T10:15:58.028Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="LwSq-4mI2mHbNwVBawge" version="22.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T10:32:15.191Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1WJ-VUTFYmGHJNEgfkNl" version="22.0.5" type="github">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="Le6WnlKU982UpR1vidO3-37" value="明道云低代码平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="81" y="787" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Le6WnlKU982UpR1vidO3-38" value="OCR" style="whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="240" y="787" width="119" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
