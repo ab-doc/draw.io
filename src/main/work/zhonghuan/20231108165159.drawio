@@ -1,97 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T08:54:01.759Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BOZ3KPccPte93RS_ZoLe" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T09:33:33.311Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EKTrjYvKP5SCRWJBQn1o" version="22.0.8" type="github" pages="2">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-0" />
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-1" parent="sdHGfgtrLrPXHbDimJ2l-0" />
-        <mxCell id="sdHGfgtrLrPXHbDimJ2l-57" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;调水模型A&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
+        <mxCell id="sdHGfgtrLrPXHbDimJ2l-57" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;排涝模型A&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
           <mxGeometry x="40.5" y="20" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cgCMbxDdlOudI4U_pfRL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="cgCMbxDdlOudI4U_pfRL-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="FzfT1Ob-Q_l3NhC7Z1uI-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="FzfT1Ob-Q_l3NhC7Z1uI-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cgCMbxDdlOudI4U_pfRL-0" value="河流" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="480.5" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cgCMbxDdlOudI4U_pfRL-1" value="支渠B" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
-          <mxGeometry x="600.5" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-0" target="FzfT1Ob-Q_l3NhC7Z1uI-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-0" target="FzfT1Ob-Q_l3NhC7Z1uI-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-0" target="FzfT1Ob-Q_l3NhC7Z1uI-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-0" value="支渠A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="360.5" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-2" target="FzfT1Ob-Q_l3NhC7Z1uI-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-2" target="FzfT1Ob-Q_l3NhC7Z1uI-20">
+        <mxCell id="cgCMbxDdlOudI4U_pfRL-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="iJDq2YbVKDRwt8fmQem2-0" target="cgCMbxDdlOudI4U_pfRL-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="541" y="460" />
-              <mxPoint x="540" y="580" />
+              <mxPoint x="501.5" y="353" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-2" target="FzfT1Ob-Q_l3NhC7Z1uI-28">
+        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="sdHGfgtrLrPXHbDimJ2l-1" source="iJDq2YbVKDRwt8fmQem2-0" target="FzfT1Ob-Q_l3NhC7Z1uI-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100.5" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="iJDq2YbVKDRwt8fmQem2-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-2" target="FzfT1Ob-Q_l3NhC7Z1uI-30">
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="iJDq2YbVKDRwt8fmQem2-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-2" value="取水点B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="480.5" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-4" target="FzfT1Ob-Q_l3NhC7Z1uI-6">
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="iJDq2YbVKDRwt8fmQem2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-4" target="FzfT1Ob-Q_l3NhC7Z1uI-8">
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="iJDq2YbVKDRwt8fmQem2-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-4" target="FzfT1Ob-Q_l3NhC7Z1uI-10">
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="cgCMbxDdlOudI4U_pfRL-0" target="iJDq2YbVKDRwt8fmQem2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-4" value="取水点A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="240.5" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="cgCMbxDdlOudI4U_pfRL-0" value="水库" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
+          <mxGeometry x="240.5" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-6" value="用水户B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="360.5" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="cgCMbxDdlOudI4U_pfRL-1" value="水闸B" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
+          <mxGeometry x="441.5" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-8" value="用水户A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="120.5" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-0" value="水闸A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
+          <mxGeometry x="40.5" y="392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-10" value="水闸C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="40.5" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="FzfT1Ob-Q_l3NhC7Z1uI-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100.5" y="592" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-12" value="水闸B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="160.5" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-12" value="支渠A" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
+          <mxGeometry x="40.5" y="452" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-14" value="水闸A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="280.5" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="iJDq2YbVKDRwt8fmQem2-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.5" y="463" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-18" value="用水户C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="680.5" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-0" value="河流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="240.5" y="323" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-20" value="用水户D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="680.5" y="550" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="iJDq2YbVKDRwt8fmQem2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501.5" y="592" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-28" value="用水户E" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="680.5" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-4" value="支渠B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="441.5" y="452" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzfT1Ob-Q_l3NhC7Z1uI-30" value="水闸D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
-          <mxGeometry x="680.5" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-6" value="支流A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="40.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-8" value="支流B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="441.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-10" value="河流A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="240.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iJDq2YbVKDRwt8fmQem2-12" value="水库闸门群组A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+          <mxGeometry x="240.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
