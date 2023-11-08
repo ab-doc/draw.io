@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T13:59:29.148Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iAEq6W0tdfiJMQ2atSpO" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:24:02.010Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4jIN9oZpkQX54IS-q9Rp" version="22.0.8" type="github">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -187,91 +187,6 @@
         </mxCell>
         <mxCell id="DtQQWt-DvLBq8CPffun4-31" value="泄洪预警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="240" y="280" width="120" height="40" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="0002" id="TDFgBPViRvuhW2JDrqrL">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-0" />
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-1" parent="GE-el6w7j7y8LRJmcBIe-0" />
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;排涝模型A&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="40.5" y="20" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-16" target="GE-el6w7j7y8LRJmcBIe-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="501.5" y="353" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-16" target="GE-el6w7j7y8LRJmcBIe-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100.5" y="353" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-10" target="GE-el6w7j7y8LRJmcBIe-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-10" target="GE-el6w7j7y8LRJmcBIe-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-10" target="GE-el6w7j7y8LRJmcBIe-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-10" target="GE-el6w7j7y8LRJmcBIe-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-10" target="GE-el6w7j7y8LRJmcBIe-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-10" value="水库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="240.5" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-11" value="水闸B" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="441.5" y="392" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-12" value="水闸A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="40.5" y="392" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100.5" y="592" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-14" value="支渠A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="40.5" y="452" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300.5" y="463" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-16" value="河流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="240.5" y="323" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GE-el6w7j7y8LRJmcBIe-1" source="GE-el6w7j7y8LRJmcBIe-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501.5" y="592" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-18" value="支渠B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="441.5" y="452" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-19" value="支流A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="40.5" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-20" value="支流B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="441.5" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-21" value="河流A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="240.5" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GE-el6w7j7y8LRJmcBIe-22" value="水库闸门群组A" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;" vertex="1" parent="GE-el6w7j7y8LRJmcBIe-1">
-          <mxGeometry x="240.5" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
