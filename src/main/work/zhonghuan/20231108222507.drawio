@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T15:04:37.620Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I-Dj_BmXFMcTr9cXLx1h" version="22.0.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-08T15:09:33.706Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8sK582uKLX6xwEnwlyw9" version="22.0.8" type="github" pages="3">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -76,39 +76,39 @@
     </mxGraphModel>
   </diagram>
   <diagram name="0003" id="ArQ2vXq5LhK36iSexxQv">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-0" />
         <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-0" />
         <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;费控调度模型C&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="40.5" y="20" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" edge="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1" source="ZfbQ7SCNRK7Uf4weHJ4Q-4" target="ZfbQ7SCNRK7Uf4weHJ4Q-5">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;strokeColor=default;" edge="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1" source="ZfbQ7SCNRK7Uf4weHJ4Q-5" target="ZfbQ7SCNRK7Uf4weHJ4Q-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-4" value="区县水务管理处A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-4" value="水务管理处A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="41" y="120" width="160.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-5" value="用水户A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-5" value="设备供应商A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="361.5" y="120" width="159.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-6" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="261.5" y="183" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;strokeWidth=1;" edge="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1" source="ZfbQ7SCNRK7Uf4weHJ4Q-8" target="ZfbQ7SCNRK7Uf4weHJ4Q-9">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;strokeWidth=1;" edge="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1" source="ZfbQ7SCNRK7Uf4weHJ4Q-9" target="ZfbQ7SCNRK7Uf4weHJ4Q-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-8" value="区县水务管理处A&lt;br&gt;对公账户" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-8" value="水务管理处A&lt;br&gt;对公账户" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="41" y="320" width="160.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-9" value="用水户A&lt;br&gt;私人账户" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-9" value="设备供应商A&lt;br&gt;对公账户" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
           <mxGeometry x="361.5" y="320" width="159.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-10" value="供水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
-          <mxGeometry x="251.5" y="100" width="50" height="30" as="geometry" />
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-10" value="采购设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+          <mxGeometry x="250.5" y="100" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-11" value="水调度管理费用流转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
-          <mxGeometry x="222.5" y="297" width="130" height="30" as="geometry" />
+        <mxCell id="ZfbQ7SCNRK7Uf4weHJ4Q-11" value="设备采办费" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ZfbQ7SCNRK7Uf4weHJ4Q-1">
+          <mxGeometry x="247.5" y="297" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
