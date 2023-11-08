@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T08:39:47.420Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rr9MlSp616Ct7FCPdAom" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T08:43:22.520Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="adQQQget6TE---S9vV-b" version="22.0.8" type="github" pages="2">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -119,7 +119,7 @@
         <mxCell id="ZTt6MhdkM6nAaQllPcnT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5DG9dW3dJoKthtr1w0rR-1" source="5DG9dW3dJoKthtr1w0rR-7" target="ZTt6MhdkM6nAaQllPcnT-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5DG9dW3dJoKthtr1w0rR-7" value="支渠B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DG9dW3dJoKthtr1w0rR-1">
+        <mxCell id="5DG9dW3dJoKthtr1w0rR-7" value="支渠B&lt;br&gt;(流量占62%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DG9dW3dJoKthtr1w0rR-1">
           <mxGeometry x="880" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5DG9dW3dJoKthtr1w0rR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5DG9dW3dJoKthtr1w0rR-1" source="5DG9dW3dJoKthtr1w0rR-11" target="5DG9dW3dJoKthtr1w0rR-16">
@@ -131,7 +131,7 @@
         <mxCell id="5DG9dW3dJoKthtr1w0rR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="5DG9dW3dJoKthtr1w0rR-1" source="5DG9dW3dJoKthtr1w0rR-11" target="5DG9dW3dJoKthtr1w0rR-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5DG9dW3dJoKthtr1w0rR-11" value="支渠A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DG9dW3dJoKthtr1w0rR-1">
+        <mxCell id="5DG9dW3dJoKthtr1w0rR-11" value="支渠A&lt;br&gt;(流量占38%)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5DG9dW3dJoKthtr1w0rR-1">
           <mxGeometry x="360.5" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5DG9dW3dJoKthtr1w0rR-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5DG9dW3dJoKthtr1w0rR-1" source="5DG9dW3dJoKthtr1w0rR-16" target="5DG9dW3dJoKthtr1w0rR-26">
