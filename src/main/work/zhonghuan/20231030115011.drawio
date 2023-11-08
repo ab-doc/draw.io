@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T07:26:18.778Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cNnY8DcYdfg1TJ7HplsW" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T07:32:26.526Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="kb6xGH-7KY0GN4flWm9Q" version="22.0.8" type="github" pages="3">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -50,6 +50,56 @@
         </mxCell>
         <mxCell id="nMmHyc7ttuRgZQb_Bonb-7" value="转让400T水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="4rx6LOBcJhTN_sZH4FtV-1">
           <mxGeometry x="482" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="0003" id="y3HvZfuwunW0wmJHe1q1">
+    <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-0" />
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-1" parent="KQyuQTw5qIR_1iaqKe37-0" />
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;水权配额转让模型&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="40.5" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="KQyuQTw5qIR_1iaqKe37-1" source="KQyuQTw5qIR_1iaqKe37-5" target="KQyuQTw5qIR_1iaqKe37-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="KQyuQTw5qIR_1iaqKe37-1" source="KQyuQTw5qIR_1iaqKe37-5" target="KQyuQTw5qIR_1iaqKe37-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KQyuQTw5qIR_1iaqKe37-1" source="KQyuQTw5qIR_1iaqKe37-5" target="0A8C_e6p8wc3ZKngVCED-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="KQyuQTw5qIR_1iaqKe37-1" source="KQyuQTw5qIR_1iaqKe37-5" target="0A8C_e6p8wc3ZKngVCED-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-5" value="村委会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="320" y="221" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-6" value="村民A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="159.5" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-7" value="村民C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-8" value="转让300T水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="200" y="191" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KQyuQTw5qIR_1iaqKe37-9" value="转让400T水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="375" y="156" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-0" value="村委会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="320" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-2" value="村民B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-4" value="转让200T水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="480" y="191" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0A8C_e6p8wc3ZKngVCED-5" value="转让900T水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KQyuQTw5qIR_1iaqKe37-1">
+          <mxGeometry x="375" y="288" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
