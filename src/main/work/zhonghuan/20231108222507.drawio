@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:39:30.547Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ps6_ZBe_zu0E0f-y5IgX" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:42:18.150Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g6728r2TtbXGo9z351ce" version="22.0.8" type="github" pages="2">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
-    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-0" />
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-1" parent="sdHGfgtrLrPXHbDimJ2l-0" />
@@ -19,7 +19,7 @@
         <mxCell id="mJRqOh_GaLxKxlAPAF-w-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="220.5" y="183" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mJRqOh_GaLxKxlAPAF-w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" source="mJRqOh_GaLxKxlAPAF-w-4" target="mJRqOh_GaLxKxlAPAF-w-5" parent="sdHGfgtrLrPXHbDimJ2l-1">
+        <mxCell id="mJRqOh_GaLxKxlAPAF-w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;strokeWidth=1;" edge="1" source="mJRqOh_GaLxKxlAPAF-w-4" target="mJRqOh_GaLxKxlAPAF-w-5" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mJRqOh_GaLxKxlAPAF-w-4" value="用水户A&lt;br&gt;钱包" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
