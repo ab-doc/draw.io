@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T14:37:33.519Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="u1adegtjCsZTzg2HT_-t" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-08T14:39:30.547Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ps6_ZBe_zu0E0f-y5IgX" version="22.0.8" type="github" pages="2">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="sdHGfgtrLrPXHbDimJ2l-57" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;费控调度模型&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
           <mxGeometry x="40.5" y="20" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mJRqOh_GaLxKxlAPAF-w-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="DtQQWt-DvLBq8CPffun4-25" target="mJRqOh_GaLxKxlAPAF-w-0">
+        <mxCell id="mJRqOh_GaLxKxlAPAF-w-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=arrow;" edge="1" parent="sdHGfgtrLrPXHbDimJ2l-1" source="DtQQWt-DvLBq8CPffun4-25" target="mJRqOh_GaLxKxlAPAF-w-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DtQQWt-DvLBq8CPffun4-25" value="用水户A" style="rounded=0;whiteSpace=wrap;html=1;" parent="sdHGfgtrLrPXHbDimJ2l-1" vertex="1">
@@ -19,13 +19,13 @@
         <mxCell id="mJRqOh_GaLxKxlAPAF-w-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="220.5" y="183" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mJRqOh_GaLxKxlAPAF-w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" source="mJRqOh_GaLxKxlAPAF-w-4" target="mJRqOh_GaLxKxlAPAF-w-5" parent="sdHGfgtrLrPXHbDimJ2l-1">
+        <mxCell id="mJRqOh_GaLxKxlAPAF-w-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;startArrow=block;startFill=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" source="mJRqOh_GaLxKxlAPAF-w-4" target="mJRqOh_GaLxKxlAPAF-w-5" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mJRqOh_GaLxKxlAPAF-w-4" value="用水户A&lt;br&gt;钱包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+        <mxCell id="mJRqOh_GaLxKxlAPAF-w-4" value="用水户A&lt;br&gt;钱包" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="40.5" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mJRqOh_GaLxKxlAPAF-w-5" value="用水户B&lt;br&gt;钱包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
+        <mxCell id="mJRqOh_GaLxKxlAPAF-w-5" value="用水户B&lt;br&gt;钱包" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
           <mxGeometry x="320.5" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mJRqOh_GaLxKxlAPAF-w-6" value="水权配置流转" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="sdHGfgtrLrPXHbDimJ2l-1">
