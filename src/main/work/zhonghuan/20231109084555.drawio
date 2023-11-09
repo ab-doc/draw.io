@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T01:16:58.231Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZHzgD3NrX9j-Zsbph96R" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-09T01:17:49.875Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oasJkL3hTYY9yI26lyhS" version="22.1.0" type="github" pages="3">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,11 +72,11 @@
         <mxCell id="5l5dGnRgkD7SMCscCZ9d-6" value="水处管理处" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
           <mxGeometry x="40" y="161" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="5l5dGnRgkD7SMCscCZ9d-7" value="提交物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
-          <mxGeometry x="180" y="165" width="120" height="30" as="geometry" />
+        <mxCell id="5l5dGnRgkD7SMCscCZ9d-7" value="1、提交物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="170" y="165" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5l5dGnRgkD7SMCscCZ9d-8" value="同意物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
-          <mxGeometry x="181" y="205" width="120" height="30" as="geometry" />
+        <mxCell id="5l5dGnRgkD7SMCscCZ9d-8" value="3、同意物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="171" y="205" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5l5dGnRgkD7SMCscCZ9d-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="5l5dGnRgkD7SMCscCZ9d-1" source="5l5dGnRgkD7SMCscCZ9d-4" target="5l5dGnRgkD7SMCscCZ9d-6">
           <mxGeometry relative="1" as="geometry">
@@ -84,8 +84,8 @@
             <mxPoint x="160.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5l5dGnRgkD7SMCscCZ9d-10" value="审批物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
-          <mxGeometry x="45.5" y="80" width="120" height="30" as="geometry" />
+        <mxCell id="5l5dGnRgkD7SMCscCZ9d-10" value="2、审批物资采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="35.5" y="80" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kY5L23jOg3op1AkV3N7v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="5l5dGnRgkD7SMCscCZ9d-1" source="kY5L23jOg3op1AkV3N7v-0">
           <mxGeometry relative="1" as="geometry">
@@ -95,11 +95,11 @@
         <mxCell id="kY5L23jOg3op1AkV3N7v-0" value="物资供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
           <mxGeometry x="40" y="400" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kY5L23jOg3op1AkV3N7v-4" value="采购物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
-          <mxGeometry x="40.5" y="359" width="70" height="30" as="geometry" />
+        <mxCell id="kY5L23jOg3op1AkV3N7v-4" value="4、采购物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="30.5" y="359" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kY5L23jOg3op1AkV3N7v-5" value="供应物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
-          <mxGeometry x="371" y="359" width="70" height="30" as="geometry" />
+        <mxCell id="kY5L23jOg3op1AkV3N7v-5" value="5、供应物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="361" y="359" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
