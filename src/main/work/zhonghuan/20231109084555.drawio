@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T01:21:50.049Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JF3Te_HiYzinP855GKg3" version="22.1.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-09T01:24:51.213Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ko3lpluZtIf53bTb-kVp" version="22.1.0" type="github" pages="3">
   <diagram name="0001" id="y2zCg2tqc-IcQTNm7M6H">
     <mxGraphModel dx="956" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -54,6 +54,22 @@
         <mxCell id="5l5dGnRgkD7SMCscCZ9d-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="5l5dGnRgkD7SMCscCZ9d-1" source="5l5dGnRgkD7SMCscCZ9d-4" target="5l5dGnRgkD7SMCscCZ9d-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3BJEEgyNPgTvVs_ZZCeU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5l5dGnRgkD7SMCscCZ9d-1" source="5l5dGnRgkD7SMCscCZ9d-4" target="3BJEEgyNPgTvVs_ZZCeU-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3BJEEgyNPgTvVs_ZZCeU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="5l5dGnRgkD7SMCscCZ9d-1" source="5l5dGnRgkD7SMCscCZ9d-4" target="3BJEEgyNPgTvVs_ZZCeU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5l5dGnRgkD7SMCscCZ9d-4" value="项目部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
           <mxGeometry x="321" y="160" width="120" height="160" as="geometry" />
         </mxCell>
@@ -100,6 +116,15 @@
         </mxCell>
         <mxCell id="kY5L23jOg3op1AkV3N7v-5" value="5、供应物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
           <mxGeometry x="361" y="359" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3BJEEgyNPgTvVs_ZZCeU-0" value="施工点1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3BJEEgyNPgTvVs_ZZCeU-2" value="施工点2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="600" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3BJEEgyNPgTvVs_ZZCeU-4" value="6、调拨物资" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5l5dGnRgkD7SMCscCZ9d-1">
+          <mxGeometry x="451" y="200" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
