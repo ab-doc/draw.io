@@ -1,83 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T08:57:09.745Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Th0kEDzXHbEPwGDItGkp" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T08:59:14.041Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NO-UCQaO0tKy-vQTQu25" version="24.6.5" type="github">
   <diagram name="0000" id="bC2NbkefPxN1SZI6hOt2">
-    <mxGraphModel dx="2321" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="1447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="q29gHs3pRqVENVuo0q22-0" />
         <mxCell id="q29gHs3pRqVENVuo0q22-1" parent="q29gHs3pRqVENVuo0q22-0" />
-        <mxCell id="q29gHs3pRqVENVuo0q22-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;水权配额转让模型D&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;rounded=0;labelBackgroundColor=none;" parent="q29gHs3pRqVENVuo0q22-1" vertex="1">
-          <mxGeometry x="-280" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="q29gHs3pRqVENVuo0q22-8" value="sys_department" style="rounded=0;whiteSpace=wrap;html=1;" parent="q29gHs3pRqVENVuo0q22-1" vertex="1">
-          <mxGeometry x="159" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="159" y="-27" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q29gHs3pRqVENVuo0q22-9" value="sys_enterprise" style="rounded=0;whiteSpace=wrap;html=1;" parent="q29gHs3pRqVENVuo0q22-1" vertex="1">
-          <mxGeometry x="640.5" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.5" y="-27" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q29gHs3pRqVENVuo0q22-13" value="sys_user" style="rounded=0;whiteSpace=wrap;html=1;" parent="q29gHs3pRqVENVuo0q22-1" vertex="1">
-          <mxGeometry x="399.5" y="240" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.5" y="-27" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-21" value="DepartmentDo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="159" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="159" y="-147" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-22" value="EnterpriseDo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.5" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.5" y="-147" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-23" value="UserDo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.5" y="120" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.5" y="-147" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-24" value="DepartmentMapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="159" y="10" width="160" height="60" as="geometry" />
+          <mxGeometry x="159" y="-257" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-25" value="EnterpriseMapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.5" y="10" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.5" y="-257" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-26" value="UserMapper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.5" y="10" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.5" y="-257" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-27" value="DepartmentServiceImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="159" y="-100" width="160" height="60" as="geometry" />
+          <mxGeometry x="159" y="-367" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-28" value="EnterpriseServiceImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.5" y="-100" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.5" y="-367" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-29" value="UserServiceImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.5" y="-100" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.5" y="-367" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-30" value="DepartmentServiceSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="158.75" y="-210" width="160" height="60" as="geometry" />
+          <mxGeometry x="158.75" y="-477" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-31" value="EnterpriseServiceSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.25" y="-210" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.25" y="-477" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-32" value="UserServiceSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.25" y="-210" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.25" y="-477" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-33" value="DepartmentCompentImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="158.75" y="-320" width="160" height="60" as="geometry" />
+          <mxGeometry x="158.75" y="-587" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-34" value="EnterpriseCompentImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.25" y="-320" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.25" y="-587" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-35" value="UserCompentImpl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.25" y="-320" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.25" y="-587" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-36" value="DepartmentCompentSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="158.5" y="-430" width="160" height="60" as="geometry" />
+          <mxGeometry x="158.5" y="-697" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-37" value="EnterpriseCompentSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640" y="-430" width="160" height="60" as="geometry" />
+          <mxGeometry x="640" y="-697" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-38" value="UserCompentSpec" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399" y="-430" width="160" height="60" as="geometry" />
+          <mxGeometry x="399" y="-697" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-39" value="DepartmentController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="159" y="-540" width="160" height="60" as="geometry" />
+          <mxGeometry x="159" y="-807" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-40" value="EnterpriseController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="640.5" y="-540" width="160" height="60" as="geometry" />
+          <mxGeometry x="640.5" y="-807" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bpQlo2tuA-fSUPPELB52-41" value="UserController" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q29gHs3pRqVENVuo0q22-1">
-          <mxGeometry x="399.5" y="-540" width="160" height="60" as="geometry" />
+          <mxGeometry x="399.5" y="-807" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
