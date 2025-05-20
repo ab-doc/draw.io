@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6" pages="2">
   <diagram name="第 1 页" id="MwHkkEf8tN-5ccca-qN6">
     <mxGraphModel dx="1032" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,237 +236,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第2页" id="EWLym4Zuip-bSh3VzClK">
-    <mxGraphModel dx="1290" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tt7SZU1GUIpSlvw23UyQ-0" />
         <mxCell id="tt7SZU1GUIpSlvw23UyQ-1" parent="tt7SZU1GUIpSlvw23UyQ-0" />
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-2" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="165" as="sourcePoint" />
-            <mxPoint x="760" y="165" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="180" y="154" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-4" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="520" y="154" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-5" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="185" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-6" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="185" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.6" y="105" as="sourcePoint" />
-            <mxPoint x="189.6" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529.6" y="105" as="sourcePoint" />
-            <mxPoint x="529.6" y="145" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-9" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="65" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-10" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="65" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-11" value="1、查询起止时间正好与机组开停机时间重合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="290" y="225" width="250" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-12" value="设备分析报表-机组开停机一览表场景分析" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
+        <mxCell id="tt7SZU1GUIpSlvw23UyQ-12" value="OAuth认证流程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" parent="tt7SZU1GUIpSlvw23UyQ-1" vertex="1">
           <mxGeometry x="40" y="10" width="237.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-13" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="388" as="sourcePoint" />
-            <mxPoint x="760" y="388" as="targetPoint" />
+        <mxCell id="nCst6igZkE9t_IHISnD0-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
+          <mxGeometry x="120" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nCst6igZkE9t_IHISnD0-2" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="nCst6igZkE9t_IHISnD0-1" parent="tt7SZU1GUIpSlvw23UyQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="155" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="221" y="377" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-15" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="520" y="377" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-16" value="2025-02-02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="201" y="408" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-17" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="408" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.6" y="328" as="sourcePoint" />
-            <mxPoint x="189.6" y="368" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529.6" y="328" as="sourcePoint" />
-            <mxPoint x="529.6" y="368" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-20" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="288" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-21" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="288" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-22" value="2、查询开始时间早于机组开机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="240" y="448" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-23" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="620" as="sourcePoint" />
-            <mxPoint x="760" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="220" y="609" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-25" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="481" y="609" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-26" value="2025-02-02" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="200" y="640" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-27" value="2025-02-08" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="456" y="640" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.6" y="560" as="sourcePoint" />
-            <mxPoint x="189.6" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529.6" y="560" as="sourcePoint" />
-            <mxPoint x="529.6" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-30" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="520" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-31" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="520" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-32" value="3、查询开始时间早于机组开机时间，查询终止时间晚于机组停机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="219" y="680" width="390" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-33" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="846" as="sourcePoint" />
-            <mxPoint x="760" y="846" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="121" y="835" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-35" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="580" y="835" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-36" value="2025-01-28" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="101" y="866" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-37" value="2025-02-12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="555" y="866" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.6" y="786" as="sourcePoint" />
-            <mxPoint x="189.6" y="826" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529.6" y="786" as="sourcePoint" />
-            <mxPoint x="529.6" y="826" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-40" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="746" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-41" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="746" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-42" value="4、查询开始时间晚于开机时间、查询终止时间早于停机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="225" y="896" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="400.4" y="1418" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-44" value="机组开机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="440.4" y="1413" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-45" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="400.4" y="1458" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-46" value="机组停机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="440.4" y="1453" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="1400" as="sourcePoint" />
-            <mxPoint x="70" y="1440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70.00000000000003" y="1449" as="sourcePoint" />
-            <mxPoint x="70.00000000000003" y="1489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-49" value="查询开始时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="101.39999999999998" y="1406" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-50" value="查询结束时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="101.39999999999998" y="1453" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-51" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="1060" as="sourcePoint" />
-            <mxPoint x="760" y="1060" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="121" y="1049" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-53" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="580" y="1049" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-54" value="2025-01-28" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="101" y="1080" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-55" value="2025-02-12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="555" y="1080" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=default;fillStyle=auto;dashed=1;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="189.6" y="1000" as="sourcePoint" />
-            <mxPoint x="189.6" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="529.6" y="1000" as="sourcePoint" />
-            <mxPoint x="529.6" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-58" value="2025-02-01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="160" y="960" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-59" value="2025-02-10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="495" y="960" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tt7SZU1GUIpSlvw23UyQ-60" value="4、查询开始时间晚于开机时间、查询终止时间早于停机时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tt7SZU1GUIpSlvw23UyQ-1">
-          <mxGeometry x="225" y="1110" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
